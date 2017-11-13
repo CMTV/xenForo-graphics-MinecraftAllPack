@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+  <smilie_categories>
+    <smilie_category id="50" title="MC: Building blocks" display_order="50"/>
+  </smilie_categories>
+  <smilies>
+    <!-- Stone (1:0) -->
+	<smilie smilie_category_id="50" title="Stone" display_order="0" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/1-0.png</image_url>
+		<smilie_text>:mc_1-0:</smilie_text>
+		<smilie_text>:mc_stone:</smilie_text>
+	</smilie>
+
+	<!-- Granite (1:1) -->
+	<smilie smilie_category_id="50" title="Granite" display_order="1" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/1-1.png</image_url>
+		<smilie_text>:mc_1-1:</smilie_text>
+		<smilie_text>:mc_granite:</smilie_text>
+	</smilie>
+
+	<!-- Polished Granite (1:2) -->
+	<smilie smilie_category_id="50" title="Polished Granite" display_order="2" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/1-2.png</image_url>
+		<smilie_text>:mc_1-2:</smilie_text>
+		<smilie_text>:mc_polished_granite:</smilie_text>
+	</smilie>
+
+	<!-- Diorite (1:3) -->
+	<smilie smilie_category_id="50" title="Diorite" display_order="3" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/1-3.png</image_url>
+		<smilie_text>:mc_1-3:</smilie_text>
+		<smilie_text>:mc_diorite:</smilie_text>
+	</smilie>
+
+	<!-- Polished Diorite (1:4) -->
+	<smilie smilie_category_id="50" title="Polished Diorite" display_order="4" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/1-4.png</image_url>
+		<smilie_text>:mc_1-4:</smilie_text>
+		<smilie_text>:mc_polished_diorite:</smilie_text>
+	</smilie>
+
+	<!-- Andesite (1:5) -->
+	<smilie smilie_category_id="50" title="Andesite" display_order="5" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/1-5.png</image_url>
+		<smilie_text>:mc_1-5:</smilie_text>
+		<smilie_text>:mc_andesite:</smilie_text>
+	</smilie>
+
+	<!-- Polished Andesite (1:6) -->
+	<smilie smilie_category_id="50" title="Polished Andesite" display_order="6" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/1-6.png</image_url>
+		<smilie_text>:mc_1-6:</smilie_text>
+		<smilie_text>:mc_polished_andesite:</smilie_text>
+	</smilie>
+
+	<!-- Grass (2:0) -->
+	<smilie smilie_category_id="50" title="Grass" display_order="7" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/2-0.png</image_url>
+		<smilie_text>:mc_2-0:</smilie_text>
+		<smilie_text>:mc_grass:</smilie_text>
+	</smilie>
+
+	<!-- Dirt (3:0) -->
+	<smilie smilie_category_id="50" title="Dirt" display_order="8" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/3-0.png</image_url>
+		<smilie_text>:mc_3-0:</smilie_text>
+		<smilie_text>:mc_dirt:</smilie_text>
+	</smilie>
+
+	<!-- Coarse Dirt (3:1) -->
+	<smilie smilie_category_id="50" title="Coarse Dirt" display_order="9" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/3-1.png</image_url>
+		<smilie_text>:mc_3-1:</smilie_text>
+		<smilie_text>:mc_coarse_dirt:</smilie_text>
+	</smilie>
+
+	<!-- Podzol (3:2) -->
+	<smilie smilie_category_id="50" title="Podzol" display_order="10" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/3-2.png</image_url>
+		<smilie_text>:mc_3-2:</smilie_text>
+		<smilie_text>:mc_podzol:</smilie_text>
+	</smilie>
+
+	<!-- Cobblestone (4:0) -->
+	<smilie smilie_category_id="50" title="Cobblestone" display_order="11" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/4-0.png</image_url>
+		<smilie_text>:mc_4-0:</smilie_text>
+		<smilie_text>:mc_cobblestone:</smilie_text>
+	</smilie>
+
+	<!-- Oak Wood Plank (5:0) -->
+	<smilie smilie_category_id="50" title="Oak Wood Plank" display_order="12" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/5-0.png</image_url>
+		<smilie_text>:mc_5-0:</smilie_text>
+		<smilie_text>:mc_oak_wood_plank:</smilie_text>
+	</smilie>
+
+	<!-- Spruce Wood Plank (5:1) -->
+	<smilie smilie_category_id="50" title="Spruce Wood Plank" display_order="13" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/5-1.png</image_url>
+		<smilie_text>:mc_5-1:</smilie_text>
+		<smilie_text>:mc_spruce_wood_plank:</smilie_text>
+	</smilie>
+
+	<!-- Birch Wood Plank (5:2) -->
+	<smilie smilie_category_id="50" title="Birch Wood Plank" display_order="14" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/5-2.png</image_url>
+		<smilie_text>:mc_5-2:</smilie_text>
+		<smilie_text>:mc_birch_wood_plank:</smilie_text>
+	</smilie>
+
+	<!-- Jungle Wood Plank (5:3) -->
+	<smilie smilie_category_id="50" title="Jungle Wood Plank" display_order="15" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/5-3.png</image_url>
+		<smilie_text>:mc_5-3:</smilie_text>
+		<smilie_text>:mc_jungle_wood_plank:</smilie_text>
+	</smilie>
+
+	<!-- Acacia Wood Plank (5:4) -->
+	<smilie smilie_category_id="50" title="Acacia Wood Plank" display_order="16" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/5-4.png</image_url>
+		<smilie_text>:mc_5-4:</smilie_text>
+		<smilie_text>:mc_acacia_wood_plank:</smilie_text>
+	</smilie>
+
+	<!-- Dark Oak Wood Plank (5:5) -->
+	<smilie smilie_category_id="50" title="Dark Oak Wood Plank" display_order="17" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/5-5.png</image_url>
+		<smilie_text>:mc_5-5:</smilie_text>
+		<smilie_text>:mc_dark_oak_wood_plank:</smilie_text>
+	</smilie>
+
+	<!-- Bedrock (7:0) -->
+	<smilie smilie_category_id="50" title="Bedrock" display_order="18" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/7-0.png</image_url>
+		<smilie_text>:mc_7-0:</smilie_text>
+		<smilie_text>:mc_bedrock:</smilie_text>
+	</smilie>
+
+	<!-- Sand (12:0) -->
+	<smilie smilie_category_id="50" title="Sand" display_order="19" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/12-0.png</image_url>
+		<smilie_text>:mc_12-0:</smilie_text>
+		<smilie_text>:mc_sand:</smilie_text>
+	</smilie>
+
+	<!-- Red Sand (12:1) -->
+	<smilie smilie_category_id="50" title="Red Sand" display_order="20" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/12-1.png</image_url>
+		<smilie_text>:mc_12-1:</smilie_text>
+		<smilie_text>:mc_red_sand:</smilie_text>
+	</smilie>
+
+	<!-- Gravel (13:0) -->
+	<smilie smilie_category_id="50" title="Gravel" display_order="21" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/13-0.png</image_url>
+		<smilie_text>:mc_13-0:</smilie_text>
+		<smilie_text>:mc_gravel:</smilie_text>
+	</smilie>
+
+	<!-- Gold Ore (14:0) -->
+	<smilie smilie_category_id="50" title="Gold Ore" display_order="22" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/14-0.png</image_url>
+		<smilie_text>:mc_14-0:</smilie_text>
+		<smilie_text>:mc_gold_ore:</smilie_text>
+	</smilie>
+
+	<!-- Iron Ore (15:0) -->
+	<smilie smilie_category_id="50" title="Iron Ore" display_order="23" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/15-0.png</image_url>
+		<smilie_text>:mc_15-0:</smilie_text>
+		<smilie_text>:mc_iron_ore:</smilie_text>
+	</smilie>
+
+	<!-- Coal Ore (16:0) -->
+	<smilie smilie_category_id="50" title="Coal Ore" display_order="24" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/16-0.png</image_url>
+		<smilie_text>:mc_16-0:</smilie_text>
+		<smilie_text>:mc_coal_ore:</smilie_text>
+	</smilie>
+
+	<!-- Oak Wood (17:0) -->
+	<smilie smilie_category_id="50" title="Oak Wood" display_order="25" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/17-0.png</image_url>
+		<smilie_text>:mc_17-0:</smilie_text>
+		<smilie_text>:mc_oak_wood:</smilie_text>
+	</smilie>
+
+	<!-- Spruce Wood (17:1) -->
+	<smilie smilie_category_id="50" title="Spruce Wood" display_order="26" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/17-1.png</image_url>
+		<smilie_text>:mc_17-1:</smilie_text>
+		<smilie_text>:mc_spruce_wood:</smilie_text>
+	</smilie>
+
+	<!-- Birch Wood (17:2) -->
+	<smilie smilie_category_id="50" title="Birch Wood" display_order="27" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/17-2.png</image_url>
+		<smilie_text>:mc_17-2:</smilie_text>
+		<smilie_text>:mc_birch_wood:</smilie_text>
+	</smilie>
+
+	<!-- Jungle Wood (17:3) -->
+	<smilie smilie_category_id="50" title="Jungle Wood" display_order="28" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/17-3.png</image_url>
+		<smilie_text>:mc_17-3:</smilie_text>
+		<smilie_text>:mc_jungle_wood:</smilie_text>
+	</smilie>
+
+	<!-- Sponge (19:0) -->
+	<smilie smilie_category_id="50" title="Sponge" display_order="29" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/19-0.png</image_url>
+		<smilie_text>:mc_19-0:</smilie_text>
+		<smilie_text>:mc_sponge:</smilie_text>
+	</smilie>
+
+	<!-- Wet Sponge (19:1) -->
+	<smilie smilie_category_id="50" title="Wet Sponge" display_order="30" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/19-1.png</image_url>
+		<smilie_text>:mc_19-1:</smilie_text>
+		<smilie_text>:mc_wet_sponge:</smilie_text>
+	</smilie>
+
+	<!-- Glass (20:0) -->
+	<smilie smilie_category_id="50" title="Glass" display_order="31" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/20-0.png</image_url>
+		<smilie_text>:mc_20-0:</smilie_text>
+		<smilie_text>:mc_glass:</smilie_text>
+	</smilie>
+
+	<!-- Lapis Lazuli Ore (21:0) -->
+	<smilie smilie_category_id="50" title="Lapis Lazuli Ore" display_order="32" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/21-0.png</image_url>
+		<smilie_text>:mc_21-0:</smilie_text>
+		<smilie_text>:mc_lapis_lazuli_ore:</smilie_text>
+	</smilie>
+
+	<!-- Lapis Lazuli Block (22:0) -->
+	<smilie smilie_category_id="50" title="Lapis Lazuli Block" display_order="33" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/22-0.png</image_url>
+		<smilie_text>:mc_22-0:</smilie_text>
+		<smilie_text>:mc_lapis_lazuli_block:</smilie_text>
+	</smilie>
+
+	<!-- Sandstone (24:0) -->
+	<smilie smilie_category_id="50" title="Sandstone" display_order="34" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/24-0.png</image_url>
+		<smilie_text>:mc_24-0:</smilie_text>
+		<smilie_text>:mc_sandstone:</smilie_text>
+	</smilie>
+
+	<!-- Chiseled Sandstone (24:1) -->
+	<smilie smilie_category_id="50" title="Chiseled Sandstone" display_order="35" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/24-1.png</image_url>
+		<smilie_text>:mc_24-1:</smilie_text>
+		<smilie_text>:mc_chiseled_sandstone:</smilie_text>
+	</smilie>
+
+	<!-- Smooth Sandstone (24:2) -->
+	<smilie smilie_category_id="50" title="Smooth Sandstone" display_order="36" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/24-2.png</image_url>
+		<smilie_text>:mc_24-2:</smilie_text>
+		<smilie_text>:mc_smooth_sandstone:</smilie_text>
+	</smilie>
+
+	<!-- White Wool (35:0) -->
+	<smilie smilie_category_id="50" title="White Wool" display_order="37" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-0.png</image_url>
+		<smilie_text>:mc_35-0:</smilie_text>
+		<smilie_text>:mc_white_wool:</smilie_text>
+	</smilie>
+
+	<!-- Orange Wool (35:1) -->
+	<smilie smilie_category_id="50" title="Orange Wool" display_order="38" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-1.png</image_url>
+		<smilie_text>:mc_35-1:</smilie_text>
+		<smilie_text>:mc_orange_wool:</smilie_text>
+	</smilie>
+
+	<!-- Magenta Wool (35:2) -->
+	<smilie smilie_category_id="50" title="Magenta Wool" display_order="39" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-2.png</image_url>
+		<smilie_text>:mc_35-2:</smilie_text>
+		<smilie_text>:mc_magenta_wool:</smilie_text>
+	</smilie>
+
+	<!-- Light Blue Wool (35:3) -->
+	<smilie smilie_category_id="50" title="Light Blue Wool" display_order="40" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-3.png</image_url>
+		<smilie_text>:mc_35-3:</smilie_text>
+		<smilie_text>:mc_light_blue_wool:</smilie_text>
+	</smilie>
+
+	<!-- Yellow Wool (35:4) -->
+	<smilie smilie_category_id="50" title="Yellow Wool" display_order="41" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-4.png</image_url>
+		<smilie_text>:mc_35-4:</smilie_text>
+		<smilie_text>:mc_yellow_wool:</smilie_text>
+	</smilie>
+
+	<!-- Lime Wool (35:5) -->
+	<smilie smilie_category_id="50" title="Lime Wool" display_order="42" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-5.png</image_url>
+		<smilie_text>:mc_35-5:</smilie_text>
+		<smilie_text>:mc_lime_wool:</smilie_text>
+	</smilie>
+
+	<!-- Pink Wool (35:6) -->
+	<smilie smilie_category_id="50" title="Pink Wool" display_order="43" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-6.png</image_url>
+		<smilie_text>:mc_35-6:</smilie_text>
+		<smilie_text>:mc_pink_wool:</smilie_text>
+	</smilie>
+
+	<!-- Gray Wool (35:7) -->
+	<smilie smilie_category_id="50" title="Gray Wool" display_order="44" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-7.png</image_url>
+		<smilie_text>:mc_35-7:</smilie_text>
+		<smilie_text>:mc_gray_wool:</smilie_text>
+	</smilie>
+
+	<!-- Light Gray Wool (35:8) -->
+	<smilie smilie_category_id="50" title="Light Gray Wool" display_order="45" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-8.png</image_url>
+		<smilie_text>:mc_35-8:</smilie_text>
+		<smilie_text>:mc_light_gray_wool:</smilie_text>
+	</smilie>
+
+	<!-- Cyan Wool (35:9) -->
+	<smilie smilie_category_id="50" title="Cyan Wool" display_order="46" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-9.png</image_url>
+		<smilie_text>:mc_35-9:</smilie_text>
+		<smilie_text>:mc_cyan_wool:</smilie_text>
+	</smilie>
+
+	<!-- Purple Wool (35:10) -->
+	<smilie smilie_category_id="50" title="Purple Wool" display_order="47" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-10.png</image_url>
+		<smilie_text>:mc_35-10:</smilie_text>
+		<smilie_text>:mc_purple_wool:</smilie_text>
+	</smilie>
+
+	<!-- Blue Wool (35:11) -->
+	<smilie smilie_category_id="50" title="Blue Wool" display_order="48" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-11.png</image_url>
+		<smilie_text>:mc_35-11:</smilie_text>
+		<smilie_text>:mc_blue_wool:</smilie_text>
+	</smilie>
+
+	<!-- Brown Wool (35:12) -->
+	<smilie smilie_category_id="50" title="Brown Wool" display_order="49" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-12.png</image_url>
+		<smilie_text>:mc_35-12:</smilie_text>
+		<smilie_text>:mc_brown_wool:</smilie_text>
+	</smilie>
+
+	<!-- Green Wool (35:13) -->
+	<smilie smilie_category_id="50" title="Green Wool" display_order="50" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-13.png</image_url>
+		<smilie_text>:mc_35-13:</smilie_text>
+		<smilie_text>:mc_green_wool:</smilie_text>
+	</smilie>
+
+	<!-- Red Wool (35:14) -->
+	<smilie smilie_category_id="50" title="Red Wool" display_order="51" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-14.png</image_url>
+		<smilie_text>:mc_35-14:</smilie_text>
+		<smilie_text>:mc_red_wool:</smilie_text>
+	</smilie>
+
+	<!-- Black Wool (35:15) -->
+	<smilie smilie_category_id="50" title="Black Wool" display_order="52" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/35-15.png</image_url>
+		<smilie_text>:mc_35-15:</smilie_text>
+		<smilie_text>:mc_black_wool:</smilie_text>
+	</smilie>
+
+	<!-- Gold Block (41:0) -->
+	<smilie smilie_category_id="50" title="Gold Block" display_order="53" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/41-0.png</image_url>
+		<smilie_text>:mc_41-0:</smilie_text>
+		<smilie_text>:mc_gold_block:</smilie_text>
+	</smilie>
+
+	<!-- Iron Block (42:0) -->
+	<smilie smilie_category_id="50" title="Iron Block" display_order="54" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/42-0.png</image_url>
+		<smilie_text>:mc_42-0:</smilie_text>
+		<smilie_text>:mc_iron_block:</smilie_text>
+	</smilie>
+
+	<!-- Double Stone Slab (43:0) -->
+	<smilie smilie_category_id="50" title="Double Stone Slab" display_order="55" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/43-0.png</image_url>
+		<smilie_text>:mc_43-0:</smilie_text>
+		<smilie_text>:mc_double_stone_slab:</smilie_text>
+	</smilie>
+
+	<!-- Stone Slab (44:0) -->
+	<smilie smilie_category_id="50" title="Stone Slab" display_order="56" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-0.png</image_url>
+		<smilie_text>:mc_44-0:</smilie_text>
+		<smilie_text>:mc_stone_slab:</smilie_text>
+	</smilie>
+
+	<!-- Sandstone Slab (44:1) -->
+	<smilie smilie_category_id="50" title="Sandstone Slab" display_order="57" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-1.png</image_url>
+		<smilie_text>:mc_44-1:</smilie_text>
+		<smilie_text>:mc_sandstone_slab:</smilie_text>
+	</smilie>
+
+	<!-- Wooden Slab (44:2) -->
+	<smilie smilie_category_id="50" title="Wooden Slab" display_order="58" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-2.png</image_url>
+		<smilie_text>:mc_44-2:</smilie_text>
+		<smilie_text>:mc_wooden_slab:</smilie_text>
+	</smilie>
+
+	<!-- Cobblestone Slab (44:3) -->
+	<smilie smilie_category_id="50" title="Cobblestone Slab" display_order="59" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-3.png</image_url>
+		<smilie_text>:mc_44-3:</smilie_text>
+		<smilie_text>:mc_cobblestone_slab:</smilie_text>
+	</smilie>
+
+	<!-- Brick Slab (44:4) -->
+	<smilie smilie_category_id="50" title="Brick Slab" display_order="60" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-4.png</image_url>
+		<smilie_text>:mc_44-4:</smilie_text>
+		<smilie_text>:mc_brick_slab:</smilie_text>
+	</smilie>
+
+	<!-- Stone Brick Slab (44:5) -->
+	<smilie smilie_category_id="50" title="Stone Brick Slab" display_order="61" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-5.png</image_url>
+		<smilie_text>:mc_44-5:</smilie_text>
+		<smilie_text>:mc_stone_brick_slab:</smilie_text>
+	</smilie>
+
+	<!-- Nether Brick Slab (44:6) -->
+	<smilie smilie_category_id="50" title="Nether Brick Slab" display_order="62" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-6.png</image_url>
+		<smilie_text>:mc_44-6:</smilie_text>
+		<smilie_text>:mc_nether_brick_slab:</smilie_text>
+	</smilie>
+
+	<!-- Quartz Slab (44:7) -->
+	<smilie smilie_category_id="50" title="Quartz Slab" display_order="63" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/44-7.png</image_url>
+		<smilie_text>:mc_44-7:</smilie_text>
+		<smilie_text>:mc_quartz_slab:</smilie_text>
+	</smilie>
+
+	<!-- Bricks (45:0) -->
+	<smilie smilie_category_id="50" title="Bricks" display_order="64" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/45-0.png</image_url>
+		<smilie_text>:mc_45-0:</smilie_text>
+		<smilie_text>:mc_bricks:</smilie_text>
+	</smilie>
+
+	<!-- Bookshelf (47:0) -->
+	<smilie smilie_category_id="50" title="Bookshelf" display_order="65" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/47-0.png</image_url>
+		<smilie_text>:mc_47-0:</smilie_text>
+		<smilie_text>:mc_bookshelf:</smilie_text>
+	</smilie>
+
+	<!-- Moss Stone (48:0) -->
+	<smilie smilie_category_id="50" title="Moss Stone" display_order="66" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/48-0.png</image_url>
+		<smilie_text>:mc_48-0:</smilie_text>
+		<smilie_text>:mc_moss_stone:</smilie_text>
+	</smilie>
+
+	<!-- Obsidian (49:0) -->
+	<smilie smilie_category_id="50" title="Obsidian" display_order="67" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/49-0.png</image_url>
+		<smilie_text>:mc_49-0:</smilie_text>
+		<smilie_text>:mc_obsidian:</smilie_text>
+	</smilie>
+
+	<!-- Oak Wood Stairs (53:0) -->
+	<smilie smilie_category_id="50" title="Oak Wood Stairs" display_order="68" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/53-0.png</image_url>
+		<smilie_text>:mc_53-0:</smilie_text>
+		<smilie_text>:mc_oak_wood_stairs:</smilie_text>
+	</smilie>
+
+	<!-- Diamond Ore (56:0) -->
+	<smilie smilie_category_id="50" title="Diamond Ore" display_order="69" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/56-0.png</image_url>
+		<smilie_text>:mc_56-0:</smilie_text>
+		<smilie_text>:mc_diamond_ore:</smilie_text>
+	</smilie>
+
+	<!-- Diamond Block (57:0) -->
+	<smilie smilie_category_id="50" title="Diamond Block" display_order="70" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/57-0.png</image_url>
+		<smilie_text>:mc_57-0:</smilie_text>
+		<smilie_text>:mc_diamond_block:</smilie_text>
+	</smilie>
+
+	<!-- Farmland (60:0) -->
+	<smilie smilie_category_id="50" title="Farmland" display_order="71" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/60-0.png</image_url>
+		<smilie_text>:mc_60-0:</smilie_text>
+		<smilie_text>:mc_farmland:</smilie_text>
+	</smilie>
+
+	<!-- Cobblestone Stairs (67:0) -->
+	<smilie smilie_category_id="50" title="Cobblestone Stairs" display_order="72" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/67-0.png</image_url>
+		<smilie_text>:mc_67-0:</smilie_text>
+		<smilie_text>:mc_cobblestone_stairs:</smilie_text>
+	</smilie>
+
+	<!-- Redstone Ore (73:0) -->
+	<smilie smilie_category_id="50" title="Redstone Ore" display_order="73" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/73-0.png</image_url>
+		<smilie_text>:mc_73-0:</smilie_text>
+		<smilie_text>:mc_redstone_ore:</smilie_text>
+	</smilie>
+
+	<!-- Snow (78:0) -->
+	<smilie smilie_category_id="50" title="Snow" display_order="74" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/78-0.png</image_url>
+		<smilie_text>:mc_78-0:</smilie_text>
+		<smilie_text>:mc_snow:</smilie_text>
+	</smilie>
+
+	<!-- Ice (79:0) -->
+	<smilie smilie_category_id="50" title="Ice" display_order="75" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/79-0.png</image_url>
+		<smilie_text>:mc_79-0:</smilie_text>
+		<smilie_text>:mc_ice:</smilie_text>
+	</smilie>
+
+	<!-- Clay (82:0) -->
+	<smilie smilie_category_id="50" title="Clay" display_order="76" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/82-0.png</image_url>
+		<smilie_text>:mc_82-0:</smilie_text>
+		<smilie_text>:mc_clay:</smilie_text>
+	</smilie>
+
+	<!-- Pumpkin (86:0) -->
+	<smilie smilie_category_id="50" title="Pumpkin" display_order="77" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/86-0.png</image_url>
+		<smilie_text>:mc_86-0:</smilie_text>
+		<smilie_text>:mc_pumpkin:</smilie_text>
+	</smilie>
+
+	<!-- Netherrack (87:0) -->
+	<smilie smilie_category_id="50" title="Netherrack" display_order="78" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/87-0.png</image_url>
+		<smilie_text>:mc_87-0:</smilie_text>
+		<smilie_text>:mc_netherrack:</smilie_text>
+	</smilie>
+
+	<!-- Soul Sand (88:0) -->
+	<smilie smilie_category_id="50" title="Soul Sand" display_order="79" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/88-0.png</image_url>
+		<smilie_text>:mc_88-0:</smilie_text>
+		<smilie_text>:mc_soul_sand:</smilie_text>
+	</smilie>
+
+	<!-- Glowstone (89:0) -->
+	<smilie smilie_category_id="50" title="Glowstone" display_order="80" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/89-0.png</image_url>
+		<smilie_text>:mc_89-0:</smilie_text>
+		<smilie_text>:mc_glowstone:</smilie_text>
+	</smilie>
+
+	<!-- Jack o'Lantern (91:0) -->
+	<smilie smilie_category_id="50" title="Jack o'Lantern" display_order="81" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/91-0.png</image_url>
+		<smilie_text>:mc_91-0:</smilie_text>
+		<smilie_text>:mc_jack_olantern:</smilie_text>
+	</smilie>
+
+	<!-- White Stained Glass (95:0) -->
+	<smilie smilie_category_id="50" title="White Stained Glass" display_order="82" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/95-0.png</image_url>
+		<smilie_text>:mc_95-0:</smilie_text>
+		<smilie_text>:mc_white_stained_glass:</smilie_text>
+	</smilie>
+
+	<!-- Orange Stained Glass (95:1) -->
+	<smilie smilie_category_id="50" title="Orange Stained Glass" display_order="83" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/95-1.png</image_url>
+		<smilie_text>:mc_95-1:</smilie_text>
+		<smilie_text>:mc_orange_stained_glass:</smilie_text>
+	</smilie>
+
+	<!-- Magenta Stained Glass (95:2) -->
+	<smilie smilie_category_id="50" title="Magenta Stained Glass" display_order="84" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/building_blocks/95-2.png</image_url>
+		<smilie_text>:mc_95-2:</smilie_text>
+		<smilie_text>:mc_magenta_stained_glass:</smilie_text>
+	</smilie>
+	</smilies>
+</smilies_export>

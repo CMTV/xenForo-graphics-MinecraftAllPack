@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+    <smilie_categories>
+        <smilie_category id="30" title="MC: Transportation" display_order="53"/>
+    </smilie_categories>
+    <smilies>
+
+        <!-- Powered Rail (27:0) -->
+        <smilie smilie_category_id="30" title="Powered Rail" display_order="0" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/27-0.png</image_url>
+            <smilie_text>:mc_27-0:</smilie_text>
+            <smilie_text>:mc_powered_rail:</smilie_text>
+        </smilie>
+
+        <!-- Detector Rail (28:0) -->
+        <smilie smilie_category_id="30" title="Detector Rail" display_order="1" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/28-0.png</image_url>
+            <smilie_text>:mc_28-0:</smilie_text>
+            <smilie_text>:mc_detector_rail:</smilie_text>
+        </smilie>
+
+        <!-- Rail (66:0) -->
+        <smilie smilie_category_id="30" title="Rail" display_order="2" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/66-0.png</image_url>
+            <smilie_text>:mc_66-0:</smilie_text>
+            <smilie_text>:mc_rail:</smilie_text>
+        </smilie>
+
+        <!-- Activator Rail (157:0) -->
+        <smilie smilie_category_id="30" title="Activator Rail" display_order="3" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/157-0.png</image_url>
+            <smilie_text>:mc_157-0:</smilie_text>
+            <smilie_text>:mc_activator_rail:</smilie_text>
+        </smilie>
+
+        <!-- Minecart (328:0) -->
+        <smilie smilie_category_id="30" title="Minecart" display_order="4" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/328-0.png</image_url>
+            <smilie_text>:mc_328-0:</smilie_text>
+            <smilie_text>:mc_minecart:</smilie_text>
+        </smilie>
+
+        <!-- Saddle (329:0) -->
+        <smilie smilie_category_id="30" title="Saddle" display_order="5" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/329-0.png</image_url>
+            <smilie_text>:mc_329-0:</smilie_text>
+            <smilie_text>:mc_saddle:</smilie_text>
+        </smilie>
+
+        <!-- Oak Boat (333:0) -->
+        <smilie smilie_category_id="30" title="Oak Boat" display_order="6" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/333-0.png</image_url>
+            <smilie_text>:mc_333-0:</smilie_text>
+            <smilie_text>:mc_oak_boat:</smilie_text>
+        </smilie>
+
+        <!-- Minecart with Chest (342:0) -->
+        <smilie smilie_category_id="30" title="Minecart with Chest" display_order="7" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/342-0.png</image_url>
+            <smilie_text>:mc_342-0:</smilie_text>
+            <smilie_text>:mc_minecart_with_chest:</smilie_text>
+        </smilie>
+
+        <!-- Minecart with Furnace (343:0) -->
+        <smilie smilie_category_id="30" title="Minecart with Furnace" display_order="8" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/343-0.png</image_url>
+            <smilie_text>:mc_343-0:</smilie_text>
+            <smilie_text>:mc_minecart_with_furnace:</smilie_text>
+        </smilie>
+
+        <!-- Carrot on a Stick (398:0) -->
+        <smilie smilie_category_id="30" title="Carrot on a Stick" display_order="9" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/398-0.png</image_url>
+            <smilie_text>:mc_398-0:</smilie_text>
+            <smilie_text>:mc_carrot_on_a_stick:</smilie_text>
+        </smilie>
+
+        <!-- Minecart with TNT (407:0) -->
+        <smilie smilie_category_id="30" title="Minecart with TNT" display_order="10" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/407-0.png</image_url>
+            <smilie_text>:mc_407-0:</smilie_text>
+            <smilie_text>:mc_minecart_with_tnt:</smilie_text>
+        </smilie>
+
+        <!-- Minecart with Hopper (408:0) -->
+        <smilie smilie_category_id="30" title="Minecart with Hopper" display_order="11" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/408-0.png</image_url>
+            <smilie_text>:mc_408-0:</smilie_text>
+            <smilie_text>:mc_minecart_with_hopper:</smilie_text>
+        </smilie>
+
+        <!-- Minecart with Command Block (422:0) -->
+        <smilie smilie_category_id="30" title="Minecart with Command Block" display_order="12" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/422-0.png</image_url>
+            <smilie_text>:mc_422-0:</smilie_text>
+            <smilie_text>:mc_minecart_with_command_block:</smilie_text>
+        </smilie>
+
+        <!-- Elytra (443:0) -->
+        <smilie smilie_category_id="30" title="Elytra" display_order="13" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/443-0.png</image_url>
+            <smilie_text>:mc_443-0:</smilie_text>
+            <smilie_text>:mc_elytra:</smilie_text>
+        </smilie>
+
+        <!-- Spruce Boat (444:0) -->
+        <smilie smilie_category_id="30" title="Spruce Boat" display_order="14" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/444-0.png</image_url>
+            <smilie_text>:mc_444-0:</smilie_text>
+            <smilie_text>:mc_spruce_boat:</smilie_text>
+        </smilie>
+
+        <!-- Birch Boat (445:0) -->
+        <smilie smilie_category_id="30" title="Birch Boat" display_order="15" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/445-0.png</image_url>
+            <smilie_text>:mc_445-0:</smilie_text>
+            <smilie_text>:mc_birch_boat:</smilie_text>
+        </smilie>
+
+        <!-- Jungle Boat (446:0) -->
+        <smilie smilie_category_id="30" title="Jungle Boat" display_order="16" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/446-0.png</image_url>
+            <smilie_text>:mc_446-0:</smilie_text>
+            <smilie_text>:mc_jungle_boat:</smilie_text>
+        </smilie>
+
+        <!-- Acacia Boat (447:0) -->
+        <smilie smilie_category_id="30" title="Acacia Boat" display_order="17" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/447-0.png</image_url>
+            <smilie_text>:mc_447-0:</smilie_text>
+            <smilie_text>:mc_acacia_boat:</smilie_text>
+        </smilie>
+
+        <!-- Dark Oak Boat (448:0) -->
+        <smilie smilie_category_id="30" title="Dark Oak Boat" display_order="18" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/transportation/448-0.png</image_url>
+            <smilie_text>:mc_448-0:</smilie_text>
+            <smilie_text>:mc_dark_oak_boat:</smilie_text>
+        </smilie>
+    </smilies>
+</smilies_export>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+    <smilie_categories>
+        <smilie_category id="56" title="MC: Tools" display_order="56"/>
+    </smilie_categories>
+    <smilies>
+
+<!-- Iron Shovel (256:0) -->
+<smilie smilie_category_id="56" title="Iron Shovel" display_order="0" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/256-0.png</image_url>
+    <smilie_text>:mc_256-0:</smilie_text>
+    <smilie_text>:mc_iron_shovel:</smilie_text>
+</smilie>
+
+<!-- Iron Pickaxe (257:0) -->
+<smilie smilie_category_id="56" title="Iron Pickaxe" display_order="1" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/257-0.png</image_url>
+    <smilie_text>:mc_257-0:</smilie_text>
+    <smilie_text>:mc_iron_pickaxe:</smilie_text>
+</smilie>
+
+<!-- Iron Axe (258:0) -->
+<smilie smilie_category_id="56" title="Iron Axe" display_order="2" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/258-0.png</image_url>
+    <smilie_text>:mc_258-0:</smilie_text>
+    <smilie_text>:mc_iron_axe:</smilie_text>
+</smilie>
+
+<!-- Flint and Steel (259:0) -->
+<smilie smilie_category_id="56" title="Flint and Steel" display_order="3" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/259-0.png</image_url>
+    <smilie_text>:mc_259-0:</smilie_text>
+    <smilie_text>:mc_flint_and_steel:</smilie_text>
+</smilie>
+
+<!-- Wooden Shovel (269:0) -->
+<smilie smilie_category_id="56" title="Wooden Shovel" display_order="4" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/269-0.png</image_url>
+    <smilie_text>:mc_269-0:</smilie_text>
+    <smilie_text>:mc_wooden_shovel:</smilie_text>
+</smilie>
+
+<!-- Wooden Pickaxe (270:0) -->
+<smilie smilie_category_id="56" title="Wooden Pickaxe" display_order="5" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/270-0.png</image_url>
+    <smilie_text>:mc_270-0:</smilie_text>
+    <smilie_text>:mc_wooden_pickaxe:</smilie_text>
+</smilie>
+
+<!-- Wooden Axe (271:0) -->
+<smilie smilie_category_id="56" title="Wooden Axe" display_order="6" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/271-0.png</image_url>
+    <smilie_text>:mc_271-0:</smilie_text>
+    <smilie_text>:mc_wooden_axe:</smilie_text>
+</smilie>
+
+<!-- Stone Shovel (273:0) -->
+<smilie smilie_category_id="56" title="Stone Shovel" display_order="7" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/273-0.png</image_url>
+    <smilie_text>:mc_273-0:</smilie_text>
+    <smilie_text>:mc_stone_shovel:</smilie_text>
+</smilie>
+
+<!-- Stone Pickaxe (274:0) -->
+<smilie smilie_category_id="56" title="Stone Pickaxe" display_order="8" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/274-0.png</image_url>
+    <smilie_text>:mc_274-0:</smilie_text>
+    <smilie_text>:mc_stone_pickaxe:</smilie_text>
+</smilie>
+
+<!-- Stone Axe (275:0) -->
+<smilie smilie_category_id="56" title="Stone Axe" display_order="9" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/275-0.png</image_url>
+    <smilie_text>:mc_275-0:</smilie_text>
+    <smilie_text>:mc_stone_axe:</smilie_text>
+</smilie>
+
+<!-- Diamond Shovel (277:0) -->
+<smilie smilie_category_id="56" title="Diamond Shovel" display_order="10" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/277-0.png</image_url>
+    <smilie_text>:mc_277-0:</smilie_text>
+    <smilie_text>:mc_diamond_shovel:</smilie_text>
+</smilie>
+
+<!-- Diamond Pickaxe (278:0) -->
+<smilie smilie_category_id="56" title="Diamond Pickaxe" display_order="11" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/278-0.png</image_url>
+    <smilie_text>:mc_278-0:</smilie_text>
+    <smilie_text>:mc_diamond_pickaxe:</smilie_text>
+</smilie>
+
+<!-- Diamond Axe (279:0) -->
+<smilie smilie_category_id="56" title="Diamond Axe" display_order="12" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/279-0.png</image_url>
+    <smilie_text>:mc_279-0:</smilie_text>
+    <smilie_text>:mc_diamond_axe:</smilie_text>
+</smilie>
+
+<!-- Golden Shovel (284:0) -->
+<smilie smilie_category_id="56" title="Golden Shovel" display_order="13" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/284-0.png</image_url>
+    <smilie_text>:mc_284-0:</smilie_text>
+    <smilie_text>:mc_golden_shovel:</smilie_text>
+</smilie>
+
+<!-- Golden Pickaxe (285:0) -->
+<smilie smilie_category_id="56" title="Golden Pickaxe" display_order="14" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/285-0.png</image_url>
+    <smilie_text>:mc_285-0:</smilie_text>
+    <smilie_text>:mc_golden_pickaxe:</smilie_text>
+</smilie>
+
+<!-- Golden Axe (286:0) -->
+<smilie smilie_category_id="56" title="Golden Axe" display_order="15" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/286-0.png</image_url>
+    <smilie_text>:mc_286-0:</smilie_text>
+    <smilie_text>:mc_golden_axe:</smilie_text>
+</smilie>
+
+<!-- Wooden Hoe (290:0) -->
+<smilie smilie_category_id="56" title="Wooden Hoe" display_order="16" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/290-0.png</image_url>
+    <smilie_text>:mc_290-0:</smilie_text>
+    <smilie_text>:mc_wooden_hoe:</smilie_text>
+</smilie>
+
+<!-- Stone Hoe (291:0) -->
+<smilie smilie_category_id="56" title="Stone Hoe" display_order="17" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/291-0.png</image_url>
+    <smilie_text>:mc_291-0:</smilie_text>
+    <smilie_text>:mc_stone_hoe:</smilie_text>
+</smilie>
+
+<!-- Iron Hoe (292:0) -->
+<smilie smilie_category_id="56" title="Iron Hoe" display_order="18" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/292-0.png</image_url>
+    <smilie_text>:mc_292-0:</smilie_text>
+    <smilie_text>:mc_iron_hoe:</smilie_text>
+</smilie>
+
+<!-- Diamond Hoe (293:0) -->
+<smilie smilie_category_id="56" title="Diamond Hoe" display_order="19" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/293-0.png</image_url>
+    <smilie_text>:mc_293-0:</smilie_text>
+    <smilie_text>:mc_diamond_hoe:</smilie_text>
+</smilie>
+
+<!-- Golden Hoe (294:0) -->
+<smilie smilie_category_id="56" title="Golden Hoe" display_order="20" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/294-0.png</image_url>
+    <smilie_text>:mc_294-0:</smilie_text>
+    <smilie_text>:mc_golden_hoe:</smilie_text>
+</smilie>
+
+<!-- Compass (345:0) -->
+<smilie smilie_category_id="56" title="Compass" display_order="21" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/345-0.png</image_url>
+    <smilie_text>:mc_345-0:</smilie_text>
+    <smilie_text>:mc_compass:</smilie_text>
+</smilie>
+
+<!-- Fishing Rod (346:0) -->
+<smilie smilie_category_id="56" title="Fishing Rod" display_order="22" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/346-0.png</image_url>
+    <smilie_text>:mc_346-0:</smilie_text>
+    <smilie_text>:mc_fishing_rod:</smilie_text>
+</smilie>
+
+<!-- Clock (347:0) -->
+<smilie smilie_category_id="56" title="Clock" display_order="23" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/347-0.png</image_url>
+    <smilie_text>:mc_347-0:</smilie_text>
+    <smilie_text>:mc_clock:</smilie_text>
+</smilie>
+
+<!-- Map (358:0) -->
+<smilie smilie_category_id="56" title="Map" display_order="24" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/358-0.png</image_url>
+    <smilie_text>:mc_358-0:</smilie_text>
+    <smilie_text>:mc_map:</smilie_text>
+</smilie>
+
+<!-- Shears (359:0) -->
+<smilie smilie_category_id="56" title="Shears" display_order="25" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/359-0.png</image_url>
+    <smilie_text>:mc_359-0:</smilie_text>
+    <smilie_text>:mc_shears:</smilie_text>
+</smilie>
+
+<!-- Enchanted Book (403:0) -->
+<smilie smilie_category_id="56" title="Enchanted Book" display_order="26" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/403-0.png</image_url>
+    <smilie_text>:mc_403-0:</smilie_text>
+    <smilie_text>:mc_enchanted_book:</smilie_text>
+</smilie>
+
+<!-- Lead (420:0) -->
+<smilie smilie_category_id="56" title="Lead" display_order="27" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/420-0.png</image_url>
+    <smilie_text>:mc_420-0:</smilie_text>
+    <smilie_text>:mc_lead:</smilie_text>
+</smilie>
+
+<!-- Name Tag (421:0) -->
+<smilie smilie_category_id="56" title="Name Tag" display_order="28" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/tools/421-0.png</image_url>
+    <smilie_text>:mc_421-0:</smilie_text>
+    <smilie_text>:mc_name_tag:</smilie_text>
+</smilie>
+
+    </smilies>
+</smilies_export>

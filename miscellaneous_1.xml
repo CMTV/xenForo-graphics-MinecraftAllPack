@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+  <smilie_categories>
+    <smilie_category id="54" title="MC: Miscellaneous" display_order="54"/>
+  </smilie_categories>
+  <smilies>
+	<!-- Bed (26:0) -->
+	<smilie smilie_category_id="54" title="Bed" display_order="0" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/26-0.png</image_url>
+		<smilie_text>:mc_26-0:</smilie_text>
+		<smilie_text>:mc_bed_half:</smilie_text>
+	</smilie>
+
+	<!-- Piston Head (34:0) -->
+	<smilie smilie_category_id="54" title="Piston Head" display_order="1" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/34-0.png</image_url>
+		<smilie_text>:mc_34-0:</smilie_text>
+		<smilie_text>:mc_piston_head:</smilie_text>
+	</smilie>
+
+	<!-- Fire (51:0) -->
+	<smilie smilie_category_id="54" title="Fire" display_order="2" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/51-0.png</image_url>
+		<smilie_text>:mc_51-0:</smilie_text>
+		<smilie_text>:mc_fire:</smilie_text>
+	</smilie>
+
+	<!-- Redstone Wire (55:0) -->
+	<smilie smilie_category_id="54" title="Redstone Wire" display_order="3" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/55-0.png</image_url>
+		<smilie_text>:mc_55-0:</smilie_text>
+		<smilie_text>:mc_redstone_wire:</smilie_text>
+	</smilie>
+
+	<!-- End Portal (119:0) -->
+	<smilie smilie_category_id="54" title="End Portal" display_order="4" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/119-0.png</image_url>
+		<smilie_text>:mc_119-0:</smilie_text>
+		<smilie_text>:mc_end_portal:</smilie_text>
+	</smilie>
+
+	<!-- Dragon Egg (122:0) -->
+	<smilie smilie_category_id="54" title="Dragon Egg" display_order="5" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/122-0.png</image_url>
+		<smilie_text>:mc_122-0:</smilie_text>
+		<smilie_text>:mc_dragon_egg:</smilie_text>
+	</smilie>
+
+	<!-- Beacon (138:0) -->
+	<smilie smilie_category_id="54" title="Beacon" display_order="6" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/138-0.png</image_url>
+		<smilie_text>:mc_138-0:</smilie_text>
+		<smilie_text>:mc_beacon:</smilie_text>
+	</smilie>
+
+	<!-- Barrier (166:0) -->
+	<smilie smilie_category_id="54" title="Barrier" display_order="7" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/166-0.png</image_url>
+		<smilie_text>:mc_166-0:</smilie_text>
+		<smilie_text>:mc_barrier:</smilie_text>
+	</smilie>
+
+	<!-- Beetroot Block (207:0) -->
+	<smilie smilie_category_id="54" title="Beetroot Block" display_order="8" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/207-0.png</image_url>
+		<smilie_text>:mc_207-0:</smilie_text>
+		<smilie_text>:mc_beetroot_block:</smilie_text>
+	</smilie>
+
+	<!-- Structure Void (217:0) -->
+	<smilie smilie_category_id="54" title="Structure Void" display_order="9" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/217-0.png</image_url>
+		<smilie_text>:mc_217-0:</smilie_text>
+		<smilie_text>:mc_structure_void:</smilie_text>
+	</smilie>
+
+	<!-- Coal (263:0) -->
+	<smilie smilie_category_id="54" title="Coal" display_order="10" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/263-0.png</image_url>
+		<smilie_text>:mc_263-0:</smilie_text>
+		<smilie_text>:mc_coal:</smilie_text>
+	</smilie>
+
+	<!-- Charcoal (263:1) -->
+	<smilie smilie_category_id="54" title="Charcoal" display_order="11" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/263-1.png</image_url>
+		<smilie_text>:mc_263-1:</smilie_text>
+		<smilie_text>:mc_charcoal:</smilie_text>
+	</smilie>
+
+	<!-- Diamond (264:0) -->
+	<smilie smilie_category_id="54" title="Diamond" display_order="12" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/264-0.png</image_url>
+		<smilie_text>:mc_264-0:</smilie_text>
+		<smilie_text>:mc_diamond:</smilie_text>
+	</smilie>
+
+	<!-- Iron Ingot (265:0) -->
+	<smilie smilie_category_id="54" title="Iron Ingot" display_order="13" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/265-0.png</image_url>
+		<smilie_text>:mc_265-0:</smilie_text>
+		<smilie_text>:mc_iron_ingot:</smilie_text>
+	</smilie>
+
+	<!-- Gold Ingot (266:0) -->
+	<smilie smilie_category_id="54" title="Gold Ingot" display_order="14" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/266-0.png</image_url>
+		<smilie_text>:mc_266-0:</smilie_text>
+		<smilie_text>:mc_gold_ingot:</smilie_text>
+	</smilie>
+
+	<!-- Stick (280:0) -->
+	<smilie smilie_category_id="54" title="Stick" display_order="15" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/280-0.png</image_url>
+		<smilie_text>:mc_280-0:</smilie_text>
+		<smilie_text>:mc_stick:</smilie_text>
+	</smilie>
+
+	<!-- Bowl (281:0) -->
+	<smilie smilie_category_id="54" title="Bowl" display_order="16" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/281-0.png</image_url>
+		<smilie_text>:mc_281-0:</smilie_text>
+		<smilie_text>:mc_bowl:</smilie_text>
+	</smilie>
+
+	<!-- String (287:0) -->
+	<smilie smilie_category_id="54" title="String" display_order="17" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/287-0.png</image_url>
+		<smilie_text>:mc_287-0:</smilie_text>
+		<smilie_text>:mc_string:</smilie_text>
+	</smilie>
+
+	<!-- Feather (288:0) -->
+	<smilie smilie_category_id="54" title="Feather" display_order="18" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/288-0.png</image_url>
+		<smilie_text>:mc_288-0:</smilie_text>
+		<smilie_text>:mc_feather:</smilie_text>
+	</smilie>
+
+	<!-- Gunpowder (289:0) -->
+	<smilie smilie_category_id="54" title="Gunpowder" display_order="19" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/289-0.png</image_url>
+		<smilie_text>:mc_289-0:</smilie_text>
+		<smilie_text>:mc_gunpowder:</smilie_text>
+	</smilie>
+
+	<!-- Wheat Seeds (295:0) -->
+	<smilie smilie_category_id="54" title="Wheat Seeds" display_order="20" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/295-0.png</image_url>
+		<smilie_text>:mc_295-0:</smilie_text>
+		<smilie_text>:mc_wheat_seeds:</smilie_text>
+	</smilie>
+
+	<!-- Wheat (296:0) -->
+	<smilie smilie_category_id="54" title="Wheat" display_order="21" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/296-0.png</image_url>
+		<smilie_text>:mc_296-0:</smilie_text>
+		<smilie_text>:mc_wheat:</smilie_text>
+	</smilie>
+
+	<!-- Flint (318:0) -->
+	<smilie smilie_category_id="54" title="Flint" display_order="22" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/318-0.png</image_url>
+		<smilie_text>:mc_318-0:</smilie_text>
+		<smilie_text>:mc_flint:</smilie_text>
+	</smilie>
+
+	<!-- Bucket (325:0) -->
+	<smilie smilie_category_id="54" title="Bucket" display_order="23" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/325-0.png</image_url>
+		<smilie_text>:mc_325-0:</smilie_text>
+		<smilie_text>:mc_bucket:</smilie_text>
+	</smilie>
+
+	<!-- Water Bucket (326:0) -->
+	<smilie smilie_category_id="54" title="Water Bucket" display_order="24" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/326-0.png</image_url>
+		<smilie_text>:mc_326-0:</smilie_text>
+		<smilie_text>:mc_water_bucket:</smilie_text>
+	</smilie>
+
+	<!-- Lava Bucket (327:0) -->
+	<smilie smilie_category_id="54" title="Lava Bucket" display_order="25" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/327-0.png</image_url>
+		<smilie_text>:mc_327-0:</smilie_text>
+		<smilie_text>:mc_lava_bucket:</smilie_text>
+	</smilie>
+
+	<!-- Snowball (332:0) -->
+	<smilie smilie_category_id="54" title="Snowball" display_order="26" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/332-0.png</image_url>
+		<smilie_text>:mc_332-0:</smilie_text>
+		<smilie_text>:mc_snowball:</smilie_text>
+	</smilie>
+
+	<!-- Leather (334:0) -->
+	<smilie smilie_category_id="54" title="Leather" display_order="27" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/334-0.png</image_url>
+		<smilie_text>:mc_334-0:</smilie_text>
+		<smilie_text>:mc_leather:</smilie_text>
+	</smilie>
+
+	<!-- Milk Bucket (335:0) -->
+	<smilie smilie_category_id="54" title="Milk Bucket" display_order="28" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/335-0.png</image_url>
+		<smilie_text>:mc_335-0:</smilie_text>
+		<smilie_text>:mc_milk_bucket:</smilie_text>
+	</smilie>
+
+	<!-- Brick (336:0) -->
+	<smilie smilie_category_id="54" title="Brick" display_order="29" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/336-0.png</image_url>
+		<smilie_text>:mc_336-0:</smilie_text>
+		<smilie_text>:mc_brick:</smilie_text>
+	</smilie>
+
+	<!-- Clay (337:0) -->
+	<smilie smilie_category_id="54" title="Clay" display_order="30" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/337-0.png</image_url>
+		<smilie_text>:mc_337-0:</smilie_text>
+		<smilie_text>:mc_clay_piece:</smilie_text>
+	</smilie>
+
+	<!-- Sugar Canes (338:0) -->
+	<smilie smilie_category_id="54" title="Sugar Canes" display_order="31" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/338-0.png</image_url>
+		<smilie_text>:mc_338-0:</smilie_text>
+		<smilie_text>:mc_sugar_canes:</smilie_text>
+	</smilie>
+
+	<!-- Paper (339:0) -->
+	<smilie smilie_category_id="54" title="Paper" display_order="32" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/339-0.png</image_url>
+		<smilie_text>:mc_339-0:</smilie_text>
+		<smilie_text>:mc_paper:</smilie_text>
+	</smilie>
+
+	<!-- Book (340:0) -->
+	<smilie smilie_category_id="54" title="Book" display_order="33" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/340-0.png</image_url>
+		<smilie_text>:mc_340-0:</smilie_text>
+		<smilie_text>:mc_book:</smilie_text>
+	</smilie>
+
+	<!-- Slimeball (341:0) -->
+	<smilie smilie_category_id="54" title="Slimeball" display_order="34" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/341-0.png</image_url>
+		<smilie_text>:mc_341-0:</smilie_text>
+		<smilie_text>:mc_slimeball:</smilie_text>
+	</smilie>
+
+	<!-- Egg (344:0) -->
+	<smilie smilie_category_id="54" title="Egg" display_order="35" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/344-0.png</image_url>
+		<smilie_text>:mc_344-0:</smilie_text>
+		<smilie_text>:mc_egg:</smilie_text>
+	</smilie>
+
+	<!-- Glowstone Dust (348:0) -->
+	<smilie smilie_category_id="54" title="Glowstone Dust" display_order="36" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/348-0.png</image_url>
+		<smilie_text>:mc_348-0:</smilie_text>
+		<smilie_text>:mc_glowstone_dust:</smilie_text>
+	</smilie>
+
+	<!-- Ink Sack (351:0) -->
+	<smilie smilie_category_id="54" title="Ink Sack" display_order="37" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-0.png</image_url>
+		<smilie_text>:mc_351-0:</smilie_text>
+		<smilie_text>:mc_ink_sack:</smilie_text>
+	</smilie>
+
+	<!-- Rose Red (351:1) -->
+	<smilie smilie_category_id="54" title="Rose Red" display_order="38" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-1.png</image_url>
+		<smilie_text>:mc_351-1:</smilie_text>
+		<smilie_text>:mc_rose_red:</smilie_text>
+	</smilie>
+
+	<!-- Cactus Green (351:2) -->
+	<smilie smilie_category_id="54" title="Cactus Green" display_order="39" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-2.png</image_url>
+		<smilie_text>:mc_351-2:</smilie_text>
+		<smilie_text>:mc_cactus_green:</smilie_text>
+	</smilie>
+
+	<!-- Coco Beans (351:3) -->
+	<smilie smilie_category_id="54" title="Coco Beans" display_order="40" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-3.png</image_url>
+		<smilie_text>:mc_351-3:</smilie_text>
+		<smilie_text>:mc_coco_beans:</smilie_text>
+	</smilie>
+
+	<!-- Lapis Lazuli (351:4) -->
+	<smilie smilie_category_id="54" title="Lapis Lazuli" display_order="41" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-4.png</image_url>
+		<smilie_text>:mc_351-4:</smilie_text>
+		<smilie_text>:mc_lapis_lazuli:</smilie_text>
+	</smilie>
+
+	<!-- Purple Dye (351:5) -->
+	<smilie smilie_category_id="54" title="Purple Dye" display_order="42" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-5.png</image_url>
+		<smilie_text>:mc_351-5:</smilie_text>
+		<smilie_text>:mc_purple_dye:</smilie_text>
+	</smilie>
+
+	<!-- Cyan Dye (351:6) -->
+	<smilie smilie_category_id="54" title="Cyan Dye" display_order="43" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-6.png</image_url>
+		<smilie_text>:mc_351-6:</smilie_text>
+		<smilie_text>:mc_cyan_dye:</smilie_text>
+	</smilie>
+
+	<!-- Light Gray Dye (351:7) -->
+	<smilie smilie_category_id="54" title="Light Gray Dye" display_order="44" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-7.png</image_url>
+		<smilie_text>:mc_351-7:</smilie_text>
+		<smilie_text>:mc_light_gray_dye:</smilie_text>
+	</smilie>
+
+	<!-- Gray Dye (351:8) -->
+	<smilie smilie_category_id="54" title="Gray Dye" display_order="45" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-8.png</image_url>
+		<smilie_text>:mc_351-8:</smilie_text>
+		<smilie_text>:mc_gray_dye:</smilie_text>
+	</smilie>
+
+	<!-- Pink Dye (351:9) -->
+	<smilie smilie_category_id="54" title="Pink Dye" display_order="46" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-9.png</image_url>
+		<smilie_text>:mc_351-9:</smilie_text>
+		<smilie_text>:mc_pink_dye:</smilie_text>
+	</smilie>
+
+	<!-- Lime Dye (351:10) -->
+	<smilie smilie_category_id="54" title="Lime Dye" display_order="47" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-10.png</image_url>
+		<smilie_text>:mc_351-10:</smilie_text>
+		<smilie_text>:mc_lime_dye:</smilie_text>
+	</smilie>
+
+	<!-- Dandelion Yellow (351:11) -->
+	<smilie smilie_category_id="54" title="Dandelion Yellow" display_order="48" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-11.png</image_url>
+		<smilie_text>:mc_351-11:</smilie_text>
+		<smilie_text>:mc_dandelion_yellow:</smilie_text>
+	</smilie>
+
+	<!-- Light Blue Dye (351:12) -->
+	<smilie smilie_category_id="54" title="Light Blue Dye" display_order="49" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-12.png</image_url>
+		<smilie_text>:mc_351-12:</smilie_text>
+		<smilie_text>:mc_light_blue_dye:</smilie_text>
+	</smilie>
+
+	<!-- Magenta Dye (351:13) -->
+	<smilie smilie_category_id="54" title="Magenta Dye" display_order="50" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-13.png</image_url>
+		<smilie_text>:mc_351-13:</smilie_text>
+		<smilie_text>:mc_magenta_dye:</smilie_text>
+	</smilie>
+
+	<!-- Orange Dye (351:14) -->
+	<smilie smilie_category_id="54" title="Orange Dye" display_order="51" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-14.png</image_url>
+		<smilie_text>:mc_351-14:</smilie_text>
+		<smilie_text>:mc_orange_dye:</smilie_text>
+	</smilie>
+
+	<!-- Bone Meal (351:15) -->
+	<smilie smilie_category_id="54" title="Bone Meal" display_order="52" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/351-15.png</image_url>
+		<smilie_text>:mc_351-15:</smilie_text>
+		<smilie_text>:mc_bone_meal:</smilie_text>
+	</smilie>
+
+	<!-- Bone (352:0) -->
+	<smilie smilie_category_id="54" title="Bone" display_order="53" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/352-0.png</image_url>
+		<smilie_text>:mc_352-0:</smilie_text>
+		<smilie_text>:mc_bone:</smilie_text>
+	</smilie>
+
+	<!-- Sugar (353:0) -->
+	<smilie smilie_category_id="54" title="Sugar" display_order="54" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/353-0.png</image_url>
+		<smilie_text>:mc_353-0:</smilie_text>
+		<smilie_text>:mc_sugar:</smilie_text>
+	</smilie>
+
+	<!-- Pumpkin Seeds (361:0) -->
+	<smilie smilie_category_id="54" title="Pumpkin Seeds" display_order="55" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/361-0.png</image_url>
+		<smilie_text>:mc_361-0:</smilie_text>
+		<smilie_text>:mc_pumpkin_seeds:</smilie_text>
+	</smilie>
+
+	<!-- Melon Seeds (362:0) -->
+	<smilie smilie_category_id="54" title="Melon Seeds" display_order="56" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/362-0.png</image_url>
+		<smilie_text>:mc_362-0:</smilie_text>
+		<smilie_text>:mc_melon_seeds:</smilie_text>
+	</smilie>
+
+	<!-- Ender Pearl (368:0) -->
+	<smilie smilie_category_id="54" title="Ender Pearl" display_order="57" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/368-0.png</image_url>
+		<smilie_text>:mc_368-0:</smilie_text>
+		<smilie_text>:mc_ender_pearl:</smilie_text>
+	</smilie>
+
+	<!-- Blaze Rod (369:0) -->
+	<smilie smilie_category_id="54" title="Blaze Rod" display_order="58" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/369-0.png</image_url>
+		<smilie_text>:mc_369-0:</smilie_text>
+		<smilie_text>:mc_blaze_rod:</smilie_text>
+	</smilie>
+
+	<!-- Gold Nugget (371:0) -->
+	<smilie smilie_category_id="54" title="Gold Nugget" display_order="59" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/371-0.png</image_url>
+		<smilie_text>:mc_371-0:</smilie_text>
+		<smilie_text>:mc_gold_nugget:</smilie_text>
+	</smilie>
+
+	<!-- Nether Wart (372:0) -->
+	<smilie smilie_category_id="54" title="Nether Wart" display_order="60" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/372-0.png</image_url>
+		<smilie_text>:mc_372-0:</smilie_text>
+		<smilie_text>:mc_nether_wart:</smilie_text>
+	</smilie>
+
+	<!-- Eye of Ender (381:0) -->
+	<smilie smilie_category_id="54" title="Eye of Ender" display_order="61" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/381-0.png</image_url>
+		<smilie_text>:mc_381-0:</smilie_text>
+		<smilie_text>:mc_eye_of_ender:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Elder Guardian (383:4) -->
+	<smilie smilie_category_id="54" title="Spawn Elder Guardian" display_order="62" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-4.png</image_url>
+		<smilie_text>:mc_383-4:</smilie_text>
+		<smilie_text>:mc_spawn_elder_guardian:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Wither Skeleton (383:5) -->
+	<smilie smilie_category_id="54" title="Spawn Wither Skeleton" display_order="63" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-5.png</image_url>
+		<smilie_text>:mc_383-5:</smilie_text>
+		<smilie_text>:mc_spawn_wither_skeleton:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Stray (383:6) -->
+	<smilie smilie_category_id="54" title="Spawn Stray" display_order="64" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-6.png</image_url>
+		<smilie_text>:mc_383-6:</smilie_text>
+		<smilie_text>:mc_spawn_stray:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Husk (383:23) -->
+	<smilie smilie_category_id="54" title="Spawn Husk" display_order="65" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-23.png</image_url>
+		<smilie_text>:mc_383-23:</smilie_text>
+		<smilie_text>:mc_spawn_husk:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Zombie Villager (383:27) -->
+	<smilie smilie_category_id="54" title="Spawn Zombie Villager" display_order="66" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-27.png</image_url>
+		<smilie_text>:mc_383-27:</smilie_text>
+		<smilie_text>:mc_spawn_zombie_villager:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Skeleton Horse (383:28) -->
+	<smilie smilie_category_id="54" title="Spawn Skeleton Horse" display_order="67" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-28.png</image_url>
+		<smilie_text>:mc_383-28:</smilie_text>
+		<smilie_text>:mc_spawn_skeleton_horse:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Zombie Horse (383:29) -->
+	<smilie smilie_category_id="54" title="Spawn Zombie Horse" display_order="68" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-29.png</image_url>
+		<smilie_text>:mc_383-29:</smilie_text>
+		<smilie_text>:mc_spawn_zombie_horse:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Donkey (383:31) -->
+	<smilie smilie_category_id="54" title="Spawn Donkey" display_order="69" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-31.png</image_url>
+		<smilie_text>:mc_383-31:</smilie_text>
+		<smilie_text>:mc_spawn_donkey:</smilie_text>
+	</smilie>
+
+	<!-- Spawn Mule (383:32) -->
+	<smilie smilie_category_id="54" title="Spawn Mule" display_order="70" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/miscellaneous/383-32.png</image_url>
+		<smilie_text>:mc_383-32:</smilie_text>
+		<smilie_text>:mc_spawn_mule:</smilie_text>
+	</smilie>
+	  </smilies>
+</smilies_export>

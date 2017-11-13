@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+    <smilie_categories>
+        <smilie_category id="55" title="MC: Foodstuffs" display_order="55"/>
+    </smilie_categories>
+    <smilies>
+
+<!-- Apple (260:0) -->
+<smilie smilie_category_id="55" title="Apple" display_order="0" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/260-0.png</image_url>
+    <smilie_text>:mc_260-0:</smilie_text>
+    <smilie_text>:mc_apple:</smilie_text>
+</smilie>
+
+<!-- Mushroom Stew (282:0) -->
+<smilie smilie_category_id="55" title="Mushroom Stew" display_order="1" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/282-0.png</image_url>
+    <smilie_text>:mc_282-0:</smilie_text>
+    <smilie_text>:mc_mushroom_stew:</smilie_text>
+</smilie>
+
+<!-- Bread (297:0) -->
+<smilie smilie_category_id="55" title="Bread" display_order="2" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/297-0.png</image_url>
+    <smilie_text>:mc_297-0:</smilie_text>
+    <smilie_text>:mc_bread:</smilie_text>
+</smilie>
+
+<!-- Raw Porkchop (319:0) -->
+<smilie smilie_category_id="55" title="Raw Porkchop" display_order="3" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/319-0.png</image_url>
+    <smilie_text>:mc_319-0:</smilie_text>
+    <smilie_text>:mc_raw_porkchop:</smilie_text>
+</smilie>
+
+<!-- Cooked Porkchop (320:0) -->
+<smilie smilie_category_id="55" title="Cooked Porkchop" display_order="4" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/320-0.png</image_url>
+    <smilie_text>:mc_320-0:</smilie_text>
+    <smilie_text>:mc_cooked_porkchop:</smilie_text>
+</smilie>
+
+<!-- Golden Apple (322:0) -->
+<smilie smilie_category_id="55" title="Golden Apple" display_order="5" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/322-0.png</image_url>
+    <smilie_text>:mc_322-0:</smilie_text>
+    <smilie_text>:mc_golden_apple:</smilie_text>
+</smilie>
+
+<!-- Raw Fish (349:0) -->
+<smilie smilie_category_id="55" title="Raw Fish" display_order="6" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/349-0.png</image_url>
+    <smilie_text>:mc_349-0:</smilie_text>
+    <smilie_text>:mc_raw_fish:</smilie_text>
+</smilie>
+
+<!-- Raw Salmon (349:1) -->
+<smilie smilie_category_id="55" title="Raw Salmon" display_order="7" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/349-1.png</image_url>
+    <smilie_text>:mc_349-1:</smilie_text>
+    <smilie_text>:mc_raw_salmon:</smilie_text>
+</smilie>
+
+<!-- Clownfish (349:2) -->
+<smilie smilie_category_id="55" title="Clownfish" display_order="8" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/349-2.png</image_url>
+    <smilie_text>:mc_349-2:</smilie_text>
+    <smilie_text>:mc_clownfish:</smilie_text>
+</smilie>
+
+<!-- Pufferfish (349:3) -->
+<smilie smilie_category_id="55" title="Pufferfish" display_order="9" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/349-3.png</image_url>
+    <smilie_text>:mc_349-3:</smilie_text>
+    <smilie_text>:mc_pufferfish:</smilie_text>
+</smilie>
+
+<!-- Cooked Fish (350:0) -->
+<smilie smilie_category_id="55" title="Cooked Fish" display_order="10" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/350-0.png</image_url>
+    <smilie_text>:mc_350-0:</smilie_text>
+    <smilie_text>:mc_cooked_fish:</smilie_text>
+</smilie>
+
+<!-- Cooked Salmon (350:1) -->
+<smilie smilie_category_id="55" title="Cooked Salmon" display_order="11" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/350-1.png</image_url>
+    <smilie_text>:mc_350-1:</smilie_text>
+    <smilie_text>:mc_cooked_salmon:</smilie_text>
+</smilie>
+
+<!-- Cake (354:0) -->
+<smilie smilie_category_id="55" title="Cake" display_order="12" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/354-0.png</image_url>
+    <smilie_text>:mc_354-0:</smilie_text>
+    <smilie_text>:mc_cake:</smilie_text>
+</smilie>
+
+<!-- Cookie (357:0) -->
+<smilie smilie_category_id="55" title="Cookie" display_order="13" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/357-0.png</image_url>
+    <smilie_text>:mc_357-0:</smilie_text>
+    <smilie_text>:mc_cookie:</smilie_text>
+</smilie>
+
+<!-- Melon (360:0) -->
+<smilie smilie_category_id="55" title="Melon" display_order="14" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/360-0.png</image_url>
+    <smilie_text>:mc_360-0:</smilie_text>
+    <smilie_text>:mc_melon:</smilie_text>
+</smilie>
+
+<!-- Raw Beef (363:0) -->
+<smilie smilie_category_id="55" title="Raw Beef" display_order="15" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/363-0.png</image_url>
+    <smilie_text>:mc_363-0:</smilie_text>
+    <smilie_text>:mc_raw_beef:</smilie_text>
+</smilie>
+
+<!-- Steak (364:0) -->
+<smilie smilie_category_id="55" title="Steak" display_order="16" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/364-0.png</image_url>
+    <smilie_text>:mc_364-0:</smilie_text>
+    <smilie_text>:mc_steak:</smilie_text>
+</smilie>
+
+<!-- Raw Chicken (365:0) -->
+<smilie smilie_category_id="55" title="Raw Chicken" display_order="17" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/365-0.png</image_url>
+    <smilie_text>:mc_365-0:</smilie_text>
+    <smilie_text>:mc_raw_chicken:</smilie_text>
+</smilie>
+
+<!-- Cooked Chicken (366:0) -->
+<smilie smilie_category_id="55" title="Cooked Chicken" display_order="18" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/366-0.png</image_url>
+    <smilie_text>:mc_366-0:</smilie_text>
+    <smilie_text>:mc_cooked_chicken:</smilie_text>
+</smilie>
+
+<!-- Rotten Flesh (367:0) -->
+<smilie smilie_category_id="55" title="Rotten Flesh" display_order="19" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/367-0.png</image_url>
+    <smilie_text>:mc_367-0:</smilie_text>
+    <smilie_text>:mc_rotten_flesh:</smilie_text>
+</smilie>
+
+<!-- Spider Eye (375:0) -->
+<smilie smilie_category_id="55" title="Spider Eye" display_order="20" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/375-0.png</image_url>
+    <smilie_text>:mc_375-0:</smilie_text>
+    <smilie_text>:mc_spider_eye:</smilie_text>
+</smilie>
+
+<!-- Carrot (391:0) -->
+<smilie smilie_category_id="55" title="Carrot" display_order="21" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/391-0.png</image_url>
+    <smilie_text>:mc_391-0:</smilie_text>
+    <smilie_text>:mc_carrot:</smilie_text>
+</smilie>
+
+<!-- Potato (392:0) -->
+<smilie smilie_category_id="55" title="Potato" display_order="22" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/392-0.png</image_url>
+    <smilie_text>:mc_392-0:</smilie_text>
+    <smilie_text>:mc_potato:</smilie_text>
+</smilie>
+
+<!-- Baked Potato (393:0) -->
+<smilie smilie_category_id="55" title="Baked Potato" display_order="23" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/393-0.png</image_url>
+    <smilie_text>:mc_393-0:</smilie_text>
+    <smilie_text>:mc_baked_potato:</smilie_text>
+</smilie>
+
+<!-- Poisonous Potato (394:0) -->
+<smilie smilie_category_id="55" title="Poisonous Potato" display_order="24" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/394-0.png</image_url>
+    <smilie_text>:mc_394-0:</smilie_text>
+    <smilie_text>:mc_poisonous_potato:</smilie_text>
+</smilie>
+
+<!-- Pumpkin Pie (400:0) -->
+<smilie smilie_category_id="55" title="Pumpkin Pie" display_order="25" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/400-0.png</image_url>
+    <smilie_text>:mc_400-0:</smilie_text>
+    <smilie_text>:mc_pumpkin_pie:</smilie_text>
+</smilie>
+
+<!-- Raw Rabbit (411:0) -->
+<smilie smilie_category_id="55" title="Raw Rabbit" display_order="26" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/411-0.png</image_url>
+    <smilie_text>:mc_411-0:</smilie_text>
+    <smilie_text>:mc_raw_rabbit:</smilie_text>
+</smilie>
+
+<!-- Cooked Rabbit (412:0) -->
+<smilie smilie_category_id="55" title="Cooked Rabbit" display_order="27" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/412-0.png</image_url>
+    <smilie_text>:mc_412-0:</smilie_text>
+    <smilie_text>:mc_cooked_rabbit:</smilie_text>
+</smilie>
+
+<!-- Rabbit Stew (413:0) -->
+<smilie smilie_category_id="55" title="Rabbit Stew" display_order="28" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/413-0.png</image_url>
+    <smilie_text>:mc_413-0:</smilie_text>
+    <smilie_text>:mc_rabbit_stew:</smilie_text>
+</smilie>
+
+<!-- Raw Mutton (423:0) -->
+<smilie smilie_category_id="55" title="Raw Mutton" display_order="29" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/423-0.png</image_url>
+    <smilie_text>:mc_423-0:</smilie_text>
+    <smilie_text>:mc_raw_mutton:</smilie_text>
+</smilie>
+
+<!-- Cooked Mutton (424:0) -->
+<smilie smilie_category_id="55" title="Cooked Mutton" display_order="30" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/424-0.png</image_url>
+    <smilie_text>:mc_424-0:</smilie_text>
+    <smilie_text>:mc_cooked_mutton:</smilie_text>
+</smilie>
+
+<!-- Beetroot (434:0) -->
+<smilie smilie_category_id="55" title="Beetroot" display_order="31" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/434-0.png</image_url>
+    <smilie_text>:mc_434-0:</smilie_text>
+    <smilie_text>:mc_beetroot:</smilie_text>
+</smilie>
+
+<!-- Beetroot Soup (436:0) -->
+<smilie smilie_category_id="55" title="Beetroot Soup" display_order="32" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/foodstuffs/436-0.png</image_url>
+    <smilie_text>:mc_436-0:</smilie_text>
+    <smilie_text>:mc_beetroot_soup:</smilie_text>
+</smilie>
+    </smilies>
+</smilies_export>

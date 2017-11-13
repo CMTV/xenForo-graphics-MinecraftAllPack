@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+    <smilie_categories>
+        <smilie_category id="58" title="MC: Brewing" display_order="58"/>
+    </smilie_categories>
+    <smilies>
+
+<!-- Ghast Tear (370:0) -->
+<smilie smilie_category_id="58" title="Ghast Tear" display_order="0" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/370-0.png</image_url>
+    <smilie_text>:mc_370-0:</smilie_text>
+    <smilie_text>:mc_ghast_tear:</smilie_text>
+</smilie>
+
+<!-- Potion (373:0) -->
+<smilie smilie_category_id="58" title="Potion" display_order="1" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/373-0.png</image_url>
+    <smilie_text>:mc_373-0:</smilie_text>
+    <smilie_text>:mc_potion:</smilie_text>
+</smilie>
+
+<!-- Glass Bottle (374:0) -->
+<smilie smilie_category_id="58" title="Glass Bottle" display_order="2" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/374-0.png</image_url>
+    <smilie_text>:mc_374-0:</smilie_text>
+    <smilie_text>:mc_glass_bottle:</smilie_text>
+</smilie>
+
+<!-- Fermented Spider Eye (376:0) -->
+<smilie smilie_category_id="58" title="Fermented Spider Eye" display_order="3" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/376-0.png</image_url>
+    <smilie_text>:mc_376-0:</smilie_text>
+    <smilie_text>:mc_fermented_spider_eye:</smilie_text>
+</smilie>
+
+<!-- Blaze Powder (377:0) -->
+<smilie smilie_category_id="58" title="Blaze Powder" display_order="4" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/377-0.png</image_url>
+    <smilie_text>:mc_377-0:</smilie_text>
+    <smilie_text>:mc_blaze_powder:</smilie_text>
+</smilie>
+
+<!-- Magma Cream (378:0) -->
+<smilie smilie_category_id="58" title="Magma Cream" display_order="5" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/378-0.png</image_url>
+    <smilie_text>:mc_378-0:</smilie_text>
+    <smilie_text>:mc_magma_cream:</smilie_text>
+</smilie>
+
+<!-- Brewing Stand (379:0) -->
+<smilie smilie_category_id="58" title="Brewing Stand" display_order="6" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/379-0.png</image_url>
+    <smilie_text>:mc_379-0:</smilie_text>
+    <smilie_text>:mc_brewing_stand:</smilie_text>
+</smilie>
+
+<!-- Cauldron (380:0) -->
+<smilie smilie_category_id="58" title="Cauldron" display_order="7" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/380-0.png</image_url>
+    <smilie_text>:mc_380-0:</smilie_text>
+    <smilie_text>:mc_cauldron:</smilie_text>
+</smilie>
+
+<!-- Glistering Melon (382:0) -->
+<smilie smilie_category_id="58" title="Glistering Melon" display_order="8" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/382-0.png</image_url>
+    <smilie_text>:mc_382-0:</smilie_text>
+    <smilie_text>:mc_glistering_melon:</smilie_text>
+</smilie>
+
+<!-- Golden Carrot (396:0) -->
+<smilie smilie_category_id="58" title="Golden Carrot" display_order="9" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/396-0.png</image_url>
+    <smilie_text>:mc_396-0:</smilie_text>
+    <smilie_text>:mc_golden_carrot:</smilie_text>
+</smilie>
+
+<!-- Rabbit's Foot (414:0) -->
+<smilie smilie_category_id="58" title="Rabbit's Foot" display_order="10" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/414-0.png</image_url>
+    <smilie_text>:mc_414-0:</smilie_text>
+    <smilie_text>:mc_rabbits_foot:</smilie_text>
+</smilie>
+
+<!-- Dragon's Breath (437:0) -->
+<smilie smilie_category_id="58" title="Dragon's Breath" display_order="11" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/437-0.png</image_url>
+    <smilie_text>:mc_437-0:</smilie_text>
+    <smilie_text>:mc_dragons_breath:</smilie_text>
+</smilie>
+
+<!-- Splash Potion (438:0) -->
+<smilie smilie_category_id="58" title="Splash Potion" display_order="12" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/438-0.png</image_url>
+    <smilie_text>:mc_438-0:</smilie_text>
+    <smilie_text>:mc_splash_potion:</smilie_text>
+</smilie>
+
+<!-- Lingering Potion (441:0) -->
+<smilie smilie_category_id="58" title="Lingering Potion" display_order="13" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/brewing/441-0.png</image_url>
+    <smilie_text>:mc_441-0:</smilie_text>
+    <smilie_text>:mc_lingering_potion:</smilie_text>
+</smilie>
+
+    </smilies>
+</smilies_export>

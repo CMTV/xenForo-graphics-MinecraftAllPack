@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+    <smilie_categories>
+        <smilie_category id="59" title="MC: Entities" display_order="59"/>
+    </smilie_categories>
+    <smilies>
+
+        <!-- Experience Orb (2) -->
+<smilie smilie_category_id="59" title="Experience Orb" display_order="0" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/2.png</image_url>
+    <smilie_text>:mc_e_2:</smilie_text>
+    <smilie_text>:mc_e_experience_orb:</smilie_text>
+</smilie>
+
+<!-- Area Effect Cloud (3) -->
+<smilie smilie_category_id="59" title="Area Effect Cloud" display_order="1" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/3.png</image_url>
+    <smilie_text>:mc_e_3:</smilie_text>
+    <smilie_text>:mc_e_area_effect_cloud:</smilie_text>
+</smilie>
+
+<!-- Elder Guardian (4) -->
+<smilie smilie_category_id="59" title="Elder Guardian" display_order="2" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/4.png</image_url>
+    <smilie_text>:mc_e_4:</smilie_text>
+    <smilie_text>:mc_e_elder_guardian:</smilie_text>
+</smilie>
+
+<!-- Wither Skeleton (5) -->
+<smilie smilie_category_id="59" title="Wither Skeleton" display_order="3" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/5.png</image_url>
+    <smilie_text>:mc_e_5:</smilie_text>
+    <smilie_text>:mc_e_wither_skeleton:</smilie_text>
+</smilie>
+
+<!-- Stray (6) -->
+<smilie smilie_category_id="59" title="Stray" display_order="4" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/6.png</image_url>
+    <smilie_text>:mc_e_6:</smilie_text>
+    <smilie_text>:mc_e_stray:</smilie_text>
+</smilie>
+
+<!-- Wither Skull (19) -->
+<smilie smilie_category_id="59" title="Wither Skull" display_order="5" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/19.png</image_url>
+    <smilie_text>:mc_e_19:</smilie_text>
+    <smilie_text>:mc_e_wither_skull:</smilie_text>
+</smilie>
+
+<!-- Husk (23) -->
+<smilie smilie_category_id="59" title="Husk" display_order="6" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/23.png</image_url>
+    <smilie_text>:mc_e_23:</smilie_text>
+    <smilie_text>:mc_e_husk:</smilie_text>
+</smilie>
+
+<!-- Zombie Villager (27) -->
+<smilie smilie_category_id="59" title="Zombie Villager" display_order="7" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/27.png</image_url>
+    <smilie_text>:mc_e_27:</smilie_text>
+    <smilie_text>:mc_e_zombie_villager:</smilie_text>
+</smilie>
+
+<!-- Skeleton Horse (28) -->
+<smilie smilie_category_id="59" title="Skeleton Horse" display_order="8" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/28.png</image_url>
+    <smilie_text>:mc_e_28:</smilie_text>
+    <smilie_text>:mc_e_skeleton_horse:</smilie_text>
+</smilie>
+
+<!-- Zombie Horse (29) -->
+<smilie smilie_category_id="59" title="Zombie Horse" display_order="9" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/29.png</image_url>
+    <smilie_text>:mc_e_29:</smilie_text>
+    <smilie_text>:mc_e_zombie_horse:</smilie_text>
+</smilie>
+
+<!-- Donkey (31) -->
+<smilie smilie_category_id="59" title="Donkey" display_order="10" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/31.png</image_url>
+    <smilie_text>:mc_e_31:</smilie_text>
+    <smilie_text>:mc_e_donkey:</smilie_text>
+</smilie>
+
+<!-- Mule (32) -->
+<smilie smilie_category_id="59" title="Mule" display_order="11" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/32.png</image_url>
+    <smilie_text>:mc_e_32:</smilie_text>
+    <smilie_text>:mc_e_mule:</smilie_text>
+</smilie>
+
+<!-- Evocation Fangs (33) -->
+<smilie smilie_category_id="59" title="Evocation Fangs" display_order="12" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/33.png</image_url>
+    <smilie_text>:mc_e_33:</smilie_text>
+    <smilie_text>:mc_e_evocation_fangs:</smilie_text>
+</smilie>
+
+<!-- Evoker (34) -->
+<smilie smilie_category_id="59" title="Evoker" display_order="13" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/34.png</image_url>
+    <smilie_text>:mc_e_34:</smilie_text>
+    <smilie_text>:mc_e_evoker:</smilie_text>
+</smilie>
+
+<!-- Vex (35) -->
+<smilie smilie_category_id="59" title="Vex" display_order="14" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/35.png</image_url>
+    <smilie_text>:mc_e_35:</smilie_text>
+    <smilie_text>:mc_e_vex:</smilie_text>
+</smilie>
+
+<!-- Vindicator (36) -->
+<smilie smilie_category_id="59" title="Vindicator" display_order="15" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/36.png</image_url>
+    <smilie_text>:mc_e_36:</smilie_text>
+    <smilie_text>:mc_e_vindicator:</smilie_text>
+</smilie>
+
+<!-- Creeper (50) -->
+<smilie smilie_category_id="59" title="Creeper" display_order="16" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/50.png</image_url>
+    <smilie_text>:mc_e_50:</smilie_text>
+    <smilie_text>:mc_e_creeper:</smilie_text>
+</smilie>
+
+<!-- Skeleton (51) -->
+<smilie smilie_category_id="59" title="Skeleton" display_order="17" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/51.png</image_url>
+    <smilie_text>:mc_e_51:</smilie_text>
+    <smilie_text>:mc_e_skeleton:</smilie_text>
+</smilie>
+
+<!-- Spider (52) -->
+<smilie smilie_category_id="59" title="Spider" display_order="18" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/52.png</image_url>
+    <smilie_text>:mc_e_52:</smilie_text>
+    <smilie_text>:mc_e_spider:</smilie_text>
+</smilie>
+
+<!-- Giant Zombie (53) -->
+<smilie smilie_category_id="59" title="Giant Zombie" display_order="19" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/53.png</image_url>
+    <smilie_text>:mc_e_53:</smilie_text>
+    <smilie_text>:mc_e_giant_zombie:</smilie_text>
+</smilie>
+
+<!-- Zombie (54) -->
+<smilie smilie_category_id="59" title="Zombie" display_order="20" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/54.png</image_url>
+    <smilie_text>:mc_e_54:</smilie_text>
+    <smilie_text>:mc_e_zombie:</smilie_text>
+</smilie>
+
+<!-- Slime (55) -->
+<smilie smilie_category_id="59" title="Slime" display_order="21" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/55.png</image_url>
+    <smilie_text>:mc_e_55:</smilie_text>
+    <smilie_text>:mc_e_slime:</smilie_text>
+</smilie>
+
+<!-- Ghast (56) -->
+<smilie smilie_category_id="59" title="Ghast" display_order="22" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/56.png</image_url>
+    <smilie_text>:mc_e_56:</smilie_text>
+    <smilie_text>:mc_e_ghast:</smilie_text>
+</smilie>
+
+<!-- Zombie Pigman (57) -->
+<smilie smilie_category_id="59" title="Zombie Pigman" display_order="23" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/57.png</image_url>
+    <smilie_text>:mc_e_57:</smilie_text>
+    <smilie_text>:mc_e_zombie_pigman:</smilie_text>
+</smilie>
+
+<!-- Enderman (58) -->
+<smilie smilie_category_id="59" title="Enderman" display_order="24" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/58.png</image_url>
+    <smilie_text>:mc_e_58:</smilie_text>
+    <smilie_text>:mc_e_enderman:</smilie_text>
+</smilie>
+
+<!-- Cave Spider (59) -->
+<smilie smilie_category_id="59" title="Cave Spider" display_order="25" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/59.png</image_url>
+    <smilie_text>:mc_e_59:</smilie_text>
+    <smilie_text>:mc_e_cave_spider:</smilie_text>
+</smilie>
+
+<!-- Silverfish (60) -->
+<smilie smilie_category_id="59" title="Silverfish" display_order="26" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/60.png</image_url>
+    <smilie_text>:mc_e_60:</smilie_text>
+    <smilie_text>:mc_e_silverfish:</smilie_text>
+</smilie>
+
+<!-- Blaze (61) -->
+<smilie smilie_category_id="59" title="Blaze" display_order="27" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/61.png</image_url>
+    <smilie_text>:mc_e_61:</smilie_text>
+    <smilie_text>:mc_e_blaze:</smilie_text>
+</smilie>
+
+<!-- Magma Cube (62) -->
+<smilie smilie_category_id="59" title="Magma Cube" display_order="28" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/62.png</image_url>
+    <smilie_text>:mc_e_62:</smilie_text>
+    <smilie_text>:mc_e_magma_cube:</smilie_text>
+</smilie>
+
+<!-- Ender Dragon (63) -->
+<smilie smilie_category_id="59" title="Ender Dragon" display_order="29" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/63.png</image_url>
+    <smilie_text>:mc_e_63:</smilie_text>
+    <smilie_text>:mc_e_ender_dragon:</smilie_text>
+</smilie>
+
+<!-- Wither (64) -->
+<smilie smilie_category_id="59" title="Wither" display_order="30" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/64.png</image_url>
+    <smilie_text>:mc_e_64:</smilie_text>
+    <smilie_text>:mc_e_wither:</smilie_text>
+</smilie>
+
+<!-- Bat (65) -->
+<smilie smilie_category_id="59" title="Bat" display_order="31" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/65.png</image_url>
+    <smilie_text>:mc_e_65:</smilie_text>
+    <smilie_text>:mc_e_bat:</smilie_text>
+</smilie>
+
+<!-- Witch (66) -->
+<smilie smilie_category_id="59" title="Witch" display_order="32" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/66.png</image_url>
+    <smilie_text>:mc_e_66:</smilie_text>
+    <smilie_text>:mc_e_witch:</smilie_text>
+</smilie>
+
+<!-- Endermite (67) -->
+<smilie smilie_category_id="59" title="Endermite" display_order="33" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/67.png</image_url>
+    <smilie_text>:mc_e_67:</smilie_text>
+    <smilie_text>:mc_e_endermite:</smilie_text>
+</smilie>
+
+<!-- Guardian (68) -->
+<smilie smilie_category_id="59" title="Guardian" display_order="34" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/68.png</image_url>
+    <smilie_text>:mc_e_68:</smilie_text>
+    <smilie_text>:mc_e_guardian:</smilie_text>
+</smilie>
+
+<!-- Shulker (69) -->
+<smilie smilie_category_id="59" title="Shulker" display_order="35" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/69.png</image_url>
+    <smilie_text>:mc_e_69:</smilie_text>
+    <smilie_text>:mc_e_shulker:</smilie_text>
+</smilie>
+
+<!-- Pig (90) -->
+<smilie smilie_category_id="59" title="Pig" display_order="36" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/90.png</image_url>
+    <smilie_text>:mc_e_90:</smilie_text>
+    <smilie_text>:mc_e_pig:</smilie_text>
+</smilie>
+
+<!-- Sheep (91) -->
+<smilie smilie_category_id="59" title="Sheep" display_order="37" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/91.png</image_url>
+    <smilie_text>:mc_e_91:</smilie_text>
+    <smilie_text>:mc_e_sheep:</smilie_text>
+</smilie>
+
+<!-- Cow (92) -->
+<smilie smilie_category_id="59" title="Cow" display_order="38" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/92.png</image_url>
+    <smilie_text>:mc_e_92:</smilie_text>
+    <smilie_text>:mc_e_cow:</smilie_text>
+</smilie>
+
+<!-- Chicken (93) -->
+<smilie smilie_category_id="59" title="Chicken" display_order="39" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/93.png</image_url>
+    <smilie_text>:mc_e_93:</smilie_text>
+    <smilie_text>:mc_e_chicken:</smilie_text>
+</smilie>
+
+<!-- Squid (94) -->
+<smilie smilie_category_id="59" title="Squid" display_order="40" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/94.png</image_url>
+    <smilie_text>:mc_e_94:</smilie_text>
+    <smilie_text>:mc_e_squid:</smilie_text>
+</smilie>
+
+<!-- Wolf (95) -->
+<smilie smilie_category_id="59" title="Wolf" display_order="41" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/95.png</image_url>
+    <smilie_text>:mc_e_95:</smilie_text>
+    <smilie_text>:mc_e_wolf:</smilie_text>
+</smilie>
+
+<!-- Mooshroom (96) -->
+<smilie smilie_category_id="59" title="Mooshroom" display_order="42" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/96.png</image_url>
+    <smilie_text>:mc_e_96:</smilie_text>
+    <smilie_text>:mc_e_mooshroom:</smilie_text>
+</smilie>
+
+<!-- Snow Golem (97) -->
+<smilie smilie_category_id="59" title="Snow Golem" display_order="43" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/97.png</image_url>
+    <smilie_text>:mc_e_97:</smilie_text>
+    <smilie_text>:mc_e_snow_golem:</smilie_text>
+</smilie>
+
+<!-- Ocelot (98) -->
+<smilie smilie_category_id="59" title="Ocelot" display_order="44" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/98.png</image_url>
+    <smilie_text>:mc_e_98:</smilie_text>
+    <smilie_text>:mc_e_ocelot:</smilie_text>
+</smilie>
+
+<!-- Iron Golem (99) -->
+<smilie smilie_category_id="59" title="Iron Golem" display_order="45" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/99.png</image_url>
+    <smilie_text>:mc_e_99:</smilie_text>
+    <smilie_text>:mc_e_iron_golem:</smilie_text>
+</smilie>
+
+<!-- Horse (100) -->
+<smilie smilie_category_id="59" title="Horse" display_order="46" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/100.png</image_url>
+    <smilie_text>:mc_e_100:</smilie_text>
+    <smilie_text>:mc_e_horse:</smilie_text>
+</smilie>
+
+<!-- Rabbit (101) -->
+<smilie smilie_category_id="59" title="Rabbit" display_order="47" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/101.png</image_url>
+    <smilie_text>:mc_e_101:</smilie_text>
+    <smilie_text>:mc_e_rabbit:</smilie_text>
+</smilie>
+
+<!-- Polar Bear (102) -->
+<smilie smilie_category_id="59" title="Polar Bear" display_order="48" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/102.png</image_url>
+    <smilie_text>:mc_e_102:</smilie_text>
+    <smilie_text>:mc_e_polar_bear:</smilie_text>
+</smilie>
+
+<!-- Llama (103) -->
+<smilie smilie_category_id="59" title="Llama" display_order="49" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/103.png</image_url>
+    <smilie_text>:mc_e_103:</smilie_text>
+    <smilie_text>:mc_e_llama:</smilie_text>
+</smilie>
+
+<!-- Villager (120) -->
+<smilie smilie_category_id="59" title="Villager" display_order="50" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/entities/120.png</image_url>
+    <smilie_text>:mc_e_120:</smilie_text>
+    <smilie_text>:mc_e_villager:</smilie_text>
+</smilie>
+    </smilies>
+</smilies_export>

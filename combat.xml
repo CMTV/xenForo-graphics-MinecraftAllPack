@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+    <smilie_categories>
+        <smilie_category id="57" title="MC: Combat" display_order="57"/>
+    </smilie_categories>
+    <smilies>
+
+<!-- Bow (261:0) -->
+<smilie smilie_category_id="57" title="Bow" display_order="0" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/261-0.png</image_url>
+    <smilie_text>:mc_261-0:</smilie_text>
+    <smilie_text>:mc_bow:</smilie_text>
+</smilie>
+
+<!-- Arrow (262:0) -->
+<smilie smilie_category_id="57" title="Arrow" display_order="1" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/262-0.png</image_url>
+    <smilie_text>:mc_262-0:</smilie_text>
+    <smilie_text>:mc_arrow:</smilie_text>
+</smilie>
+
+<!-- Iron Sword (267:0) -->
+<smilie smilie_category_id="57" title="Iron Sword" display_order="2" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/267-0.png</image_url>
+    <smilie_text>:mc_267-0:</smilie_text>
+    <smilie_text>:mc_iron_sword:</smilie_text>
+</smilie>
+
+<!-- Wooden Sword (268:0) -->
+<smilie smilie_category_id="57" title="Wooden Sword" display_order="3" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/268-0.png</image_url>
+    <smilie_text>:mc_268-0:</smilie_text>
+    <smilie_text>:mc_wooden_sword:</smilie_text>
+</smilie>
+
+<!-- Stone Sword (272:0) -->
+<smilie smilie_category_id="57" title="Stone Sword" display_order="4" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/272-0.png</image_url>
+    <smilie_text>:mc_272-0:</smilie_text>
+    <smilie_text>:mc_stone_sword:</smilie_text>
+</smilie>
+
+<!-- Diamond Sword (276:0) -->
+<smilie smilie_category_id="57" title="Diamond Sword" display_order="5" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/276-0.png</image_url>
+    <smilie_text>:mc_276-0:</smilie_text>
+    <smilie_text>:mc_diamond_sword:</smilie_text>
+</smilie>
+
+<!-- Golden Sword (283:0) -->
+<smilie smilie_category_id="57" title="Golden Sword" display_order="6" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/283-0.png</image_url>
+    <smilie_text>:mc_283-0:</smilie_text>
+    <smilie_text>:mc_golden_sword:</smilie_text>
+</smilie>
+
+<!-- Leather Helmet (298:0) -->
+<smilie smilie_category_id="57" title="Leather Helmet" display_order="7" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/298-0.png</image_url>
+    <smilie_text>:mc_298-0:</smilie_text>
+    <smilie_text>:mc_leather_helmet:</smilie_text>
+</smilie>
+
+<!-- Leather Tunic (299:0) -->
+<smilie smilie_category_id="57" title="Leather Tunic" display_order="8" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/299-0.png</image_url>
+    <smilie_text>:mc_299-0:</smilie_text>
+    <smilie_text>:mc_leather_tunic:</smilie_text>
+</smilie>
+
+<!-- Leather Pants (300:0) -->
+<smilie smilie_category_id="57" title="Leather Pants" display_order="9" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/300-0.png</image_url>
+    <smilie_text>:mc_300-0:</smilie_text>
+    <smilie_text>:mc_leather_pants:</smilie_text>
+</smilie>
+
+<!-- Leather Boots (301:0) -->
+<smilie smilie_category_id="57" title="Leather Boots" display_order="10" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/301-0.png</image_url>
+    <smilie_text>:mc_301-0:</smilie_text>
+    <smilie_text>:mc_leather_boots:</smilie_text>
+</smilie>
+
+<!-- Chainmail Helmet (302:0) -->
+<smilie smilie_category_id="57" title="Chainmail Helmet" display_order="11" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/302-0.png</image_url>
+    <smilie_text>:mc_302-0:</smilie_text>
+    <smilie_text>:mc_chainmail_helmet:</smilie_text>
+</smilie>
+
+<!-- Chainmail Chestplate (303:0) -->
+<smilie smilie_category_id="57" title="Chainmail Chestplate" display_order="12" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/303-0.png</image_url>
+    <smilie_text>:mc_303-0:</smilie_text>
+    <smilie_text>:mc_chainmail_chestplate:</smilie_text>
+</smilie>
+
+<!-- Chainmail Leggings (304:0) -->
+<smilie smilie_category_id="57" title="Chainmail Leggings" display_order="13" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/304-0.png</image_url>
+    <smilie_text>:mc_304-0:</smilie_text>
+    <smilie_text>:mc_chainmail_leggings:</smilie_text>
+</smilie>
+
+<!-- Chainmail Boots (305:0) -->
+<smilie smilie_category_id="57" title="Chainmail Boots" display_order="14" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/305-0.png</image_url>
+    <smilie_text>:mc_305-0:</smilie_text>
+    <smilie_text>:mc_chainmail_boots:</smilie_text>
+</smilie>
+
+<!-- Iron Helmet (306:0) -->
+<smilie smilie_category_id="57" title="Iron Helmet" display_order="15" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/306-0.png</image_url>
+    <smilie_text>:mc_306-0:</smilie_text>
+    <smilie_text>:mc_iron_helmet:</smilie_text>
+</smilie>
+
+<!-- Iron Chestplate (307:0) -->
+<smilie smilie_category_id="57" title="Iron Chestplate" display_order="16" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/307-0.png</image_url>
+    <smilie_text>:mc_307-0:</smilie_text>
+    <smilie_text>:mc_iron_chestplate:</smilie_text>
+</smilie>
+
+<!-- Iron Leggings (308:0) -->
+<smilie smilie_category_id="57" title="Iron Leggings" display_order="17" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/308-0.png</image_url>
+    <smilie_text>:mc_308-0:</smilie_text>
+    <smilie_text>:mc_iron_leggings:</smilie_text>
+</smilie>
+
+<!-- Iron Boots (309:0) -->
+<smilie smilie_category_id="57" title="Iron Boots" display_order="18" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/309-0.png</image_url>
+    <smilie_text>:mc_309-0:</smilie_text>
+    <smilie_text>:mc_iron_boots:</smilie_text>
+</smilie>
+
+<!-- Diamond Helmet (310:0) -->
+<smilie smilie_category_id="57" title="Diamond Helmet" display_order="19" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/310-0.png</image_url>
+    <smilie_text>:mc_310-0:</smilie_text>
+    <smilie_text>:mc_diamond_helmet:</smilie_text>
+</smilie>
+
+<!-- Diamond Chestplate (311:0) -->
+<smilie smilie_category_id="57" title="Diamond Chestplate" display_order="20" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/311-0.png</image_url>
+    <smilie_text>:mc_311-0:</smilie_text>
+    <smilie_text>:mc_diamond_chestplate:</smilie_text>
+</smilie>
+
+<!-- Diamond Leggings (312:0) -->
+<smilie smilie_category_id="57" title="Diamond Leggings" display_order="21" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/312-0.png</image_url>
+    <smilie_text>:mc_312-0:</smilie_text>
+    <smilie_text>:mc_diamond_leggings:</smilie_text>
+</smilie>
+
+<!-- Diamond Boots (313:0) -->
+<smilie smilie_category_id="57" title="Diamond Boots" display_order="22" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/313-0.png</image_url>
+    <smilie_text>:mc_313-0:</smilie_text>
+    <smilie_text>:mc_diamond_boots:</smilie_text>
+</smilie>
+
+<!-- Golden Helmet (314:0) -->
+<smilie smilie_category_id="57" title="Golden Helmet" display_order="23" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/314-0.png</image_url>
+    <smilie_text>:mc_314-0:</smilie_text>
+    <smilie_text>:mc_golden_helmet:</smilie_text>
+</smilie>
+
+<!-- Golden Chestplate (315:0) -->
+<smilie smilie_category_id="57" title="Golden Chestplate" display_order="24" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/315-0.png</image_url>
+    <smilie_text>:mc_315-0:</smilie_text>
+    <smilie_text>:mc_golden_chestplate:</smilie_text>
+</smilie>
+
+<!-- Golden Leggings (316:0) -->
+<smilie smilie_category_id="57" title="Golden Leggings" display_order="25" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/316-0.png</image_url>
+    <smilie_text>:mc_316-0:</smilie_text>
+    <smilie_text>:mc_golden_leggings:</smilie_text>
+</smilie>
+
+<!-- Golden Boots (317:0) -->
+<smilie smilie_category_id="57" title="Golden Boots" display_order="26" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/317-0.png</image_url>
+    <smilie_text>:mc_317-0:</smilie_text>
+    <smilie_text>:mc_golden_boots:</smilie_text>
+</smilie>
+
+<!-- Spectral Arrow (439:0) -->
+<smilie smilie_category_id="57" title="Spectral Arrow" display_order="27" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/439-0.png</image_url>
+    <smilie_text>:mc_439-0:</smilie_text>
+    <smilie_text>:mc_spectral_arrow:</smilie_text>
+</smilie>
+
+<!-- Tipped Arrow (440:0) -->
+<smilie smilie_category_id="57" title="Tipped Arrow" display_order="28" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/440-0.png</image_url>
+    <smilie_text>:mc_440-0:</smilie_text>
+    <smilie_text>:mc_tipped_arrow:</smilie_text>
+</smilie>
+
+<!-- Shield (442:0) -->
+<smilie smilie_category_id="57" title="Shield" display_order="29" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/442-0.png</image_url>
+    <smilie_text>:mc_442-0:</smilie_text>
+    <smilie_text>:mc_shield:</smilie_text>
+</smilie>
+
+<!-- Totem of Undying (449:0) -->
+<smilie smilie_category_id="57" title="Totem of Undying" display_order="30" display_in_editor="1">
+    <image_url>styles/minecraft_all_pack/combat/449-0.png</image_url>
+    <smilie_text>:mc_449-0:</smilie_text>
+    <smilie_text>:mc_totem_of_undying:</smilie_text>
+</smilie>
+</smilies>
+</smilies_export>

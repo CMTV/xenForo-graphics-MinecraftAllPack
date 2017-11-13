@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+  <smilie_categories>
+    <smilie_category id="51" title="MC: Decoration blocks" display_order="51"/>
+  </smilie_categories>
+  <smilies>
+	<!-- Oak Sapling (6:0) -->
+	<smilie smilie_category_id="51" title="Oak Sapling" display_order="1" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/6-0.png</image_url>
+		<smilie_text>:mc_6-0:</smilie_text>
+		<smilie_text>:mc_oak_sapling:</smilie_text>
+	</smilie>
+
+	<!-- Spruce Sapling (6:1) -->
+	<smilie smilie_category_id="51" title="Spruce Sapling" display_order="2" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/6-1.png</image_url>
+		<smilie_text>:mc_6-1:</smilie_text>
+		<smilie_text>:mc_spruce_sapling:</smilie_text>
+	</smilie>
+
+	<!-- Birch Sapling (6:2) -->
+	<smilie smilie_category_id="51" title="Birch Sapling" display_order="3" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/6-2.png</image_url>
+		<smilie_text>:mc_6-2:</smilie_text>
+		<smilie_text>:mc_birch_sapling:</smilie_text>
+	</smilie>
+
+	<!-- Jungle Sapling (6:3) -->
+	<smilie smilie_category_id="51" title="Jungle Sapling" display_order="4" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/6-3.png</image_url>
+		<smilie_text>:mc_6-3:</smilie_text>
+		<smilie_text>:mc_jungle_sapling:</smilie_text>
+	</smilie>
+
+	<!-- Acacia Sapling (6:4) -->
+	<smilie smilie_category_id="51" title="Acacia Sapling" display_order="5" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/6-4.png</image_url>
+		<smilie_text>:mc_6-4:</smilie_text>
+		<smilie_text>:mc_acacia_sapling:</smilie_text>
+	</smilie>
+
+	<!-- Dark Oak Sapling (6:5) -->
+	<smilie smilie_category_id="51" title="Dark Oak Sapling" display_order="6" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/6-5.png</image_url>
+		<smilie_text>:mc_6-5:</smilie_text>
+		<smilie_text>:mc_dark_oak_sapling:</smilie_text>
+	</smilie>
+
+	<!-- Flowing Water (8:0) -->
+	<smilie smilie_category_id="51" title="Flowing Water" display_order="7" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/8-0.png</image_url>
+		<smilie_text>:mc_8-0:</smilie_text>
+		<smilie_text>:mc_flowing_water:</smilie_text>
+	</smilie>
+
+	<!-- Still Water (9:0) -->
+	<smilie smilie_category_id="51" title="Still Water" display_order="8" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/9-0.png</image_url>
+		<smilie_text>:mc_9-0:</smilie_text>
+		<smilie_text>:mc_still_water:</smilie_text>
+	</smilie>
+
+	<!-- Flowing Lava (10:0) -->
+	<smilie smilie_category_id="51" title="Flowing Lava" display_order="9" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/10-0.png</image_url>
+		<smilie_text>:mc_10-0:</smilie_text>
+		<smilie_text>:mc_flowing_lava:</smilie_text>
+	</smilie>
+
+	<!-- Still Lava (11:0) -->
+	<smilie smilie_category_id="51" title="Still Lava" display_order="10" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/11-0.png</image_url>
+		<smilie_text>:mc_11-0:</smilie_text>
+		<smilie_text>:mc_still_lava:</smilie_text>
+	</smilie>
+
+	<!-- Oak Leaves (18:0) -->
+	<smilie smilie_category_id="51" title="Oak Leaves" display_order="11" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/18-0.png</image_url>
+		<smilie_text>:mc_18-0:</smilie_text>
+		<smilie_text>:mc_oak_leaves:</smilie_text>
+	</smilie>
+
+	<!-- Spruce Leaves (18:1) -->
+	<smilie smilie_category_id="51" title="Spruce Leaves" display_order="12" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/18-1.png</image_url>
+		<smilie_text>:mc_18-1:</smilie_text>
+		<smilie_text>:mc_spruce_leaves:</smilie_text>
+	</smilie>
+
+	<!-- Birch Leaves (18:2) -->
+	<smilie smilie_category_id="51" title="Birch Leaves" display_order="13" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/18-2.png</image_url>
+		<smilie_text>:mc_18-2:</smilie_text>
+		<smilie_text>:mc_birch_leaves:</smilie_text>
+	</smilie>
+
+	<!-- Jungle Leaves (18:3) -->
+	<smilie smilie_category_id="51" title="Jungle Leaves" display_order="14" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/18-3.png</image_url>
+		<smilie_text>:mc_18-3:</smilie_text>
+		<smilie_text>:mc_jungle_leaves:</smilie_text>
+	</smilie>
+
+	<!-- Cobweb (30:0) -->
+	<smilie smilie_category_id="51" title="Cobweb" display_order="15" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/30-0.png</image_url>
+		<smilie_text>:mc_30-0:</smilie_text>
+		<smilie_text>:mc_cobweb:</smilie_text>
+	</smilie>
+
+	<!-- Dead Shrub (31:0) -->
+	<smilie smilie_category_id="51" title="Dead Shrub" display_order="16" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/31-0.png</image_url>
+		<smilie_text>:mc_31-0:</smilie_text>
+		<smilie_text>:mc_dead_shrub:</smilie_text>
+	</smilie>
+
+	<!-- Grass (31:1) -->
+	<smilie smilie_category_id="51" title="Grass" display_order="17" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/31-1.png</image_url>
+		<smilie_text>:mc_31-1:</smilie_text>
+		<smilie_text>:mc_grass_plant:</smilie_text>
+	</smilie>
+
+	<!-- Fern (31:2) -->
+	<smilie smilie_category_id="51" title="Fern" display_order="18" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/31-2.png</image_url>
+		<smilie_text>:mc_31-2:</smilie_text>
+		<smilie_text>:mc_fern:</smilie_text>
+	</smilie>
+
+	<!-- Dead Bush (32:0) -->
+	<smilie smilie_category_id="51" title="Dead Bush" display_order="19" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/32-0.png</image_url>
+		<smilie_text>:mc_32-0:</smilie_text>
+		<smilie_text>:mc_dead_bush:</smilie_text>
+	</smilie>
+
+	<!-- Dandelion (37:0) -->
+	<smilie smilie_category_id="51" title="Dandelion" display_order="20" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/37-0.png</image_url>
+		<smilie_text>:mc_37-0:</smilie_text>
+		<smilie_text>:mc_dandelion:</smilie_text>
+	</smilie>
+
+	<!-- Poppy (38:0) -->
+	<smilie smilie_category_id="51" title="Poppy" display_order="21" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-0.png</image_url>
+		<smilie_text>:mc_38-0:</smilie_text>
+		<smilie_text>:mc_poppy:</smilie_text>
+	</smilie>
+
+	<!-- Blue Orchid (38:1) -->
+	<smilie smilie_category_id="51" title="Blue Orchid" display_order="22" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-1.png</image_url>
+		<smilie_text>:mc_38-1:</smilie_text>
+		<smilie_text>:mc_blue_orchid:</smilie_text>
+	</smilie>
+
+	<!-- Allium (38:2) -->
+	<smilie smilie_category_id="51" title="Allium" display_order="23" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-2.png</image_url>
+		<smilie_text>:mc_38-2:</smilie_text>
+		<smilie_text>:mc_allium:</smilie_text>
+	</smilie>
+
+	<!-- Azure Bluet (38:3) -->
+	<smilie smilie_category_id="51" title="Azure Bluet" display_order="24" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-3.png</image_url>
+		<smilie_text>:mc_38-3:</smilie_text>
+		<smilie_text>:mc_azure_bluet:</smilie_text>
+	</smilie>
+
+	<!-- Red Tulip (38:4) -->
+	<smilie smilie_category_id="51" title="Red Tulip" display_order="25" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-4.png</image_url>
+		<smilie_text>:mc_38-4:</smilie_text>
+		<smilie_text>:mc_red_tulip:</smilie_text>
+	</smilie>
+
+	<!-- Orange Tulip (38:5) -->
+	<smilie smilie_category_id="51" title="Orange Tulip" display_order="26" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-5.png</image_url>
+		<smilie_text>:mc_38-5:</smilie_text>
+		<smilie_text>:mc_orange_tulip:</smilie_text>
+	</smilie>
+
+	<!-- White Tulip (38:6) -->
+	<smilie smilie_category_id="51" title="White Tulip" display_order="27" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-6.png</image_url>
+		<smilie_text>:mc_38-6:</smilie_text>
+		<smilie_text>:mc_white_tulip:</smilie_text>
+	</smilie>
+
+	<!-- Pink Tulip (38:7) -->
+	<smilie smilie_category_id="51" title="Pink Tulip" display_order="28" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-7.png</image_url>
+		<smilie_text>:mc_38-7:</smilie_text>
+		<smilie_text>:mc_pink_tulip:</smilie_text>
+	</smilie>
+
+	<!-- Oxeye Daisy (38:8) -->
+	<smilie smilie_category_id="51" title="Oxeye Daisy" display_order="29" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/38-8.png</image_url>
+		<smilie_text>:mc_38-8:</smilie_text>
+		<smilie_text>:mc_oxeye_daisy:</smilie_text>
+	</smilie>
+
+	<!-- Brown Mushroom (39:0) -->
+	<smilie smilie_category_id="51" title="Brown Mushroom" display_order="30" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/39-0.png</image_url>
+		<smilie_text>:mc_39-0:</smilie_text>
+		<smilie_text>:mc_brown_mushroom:</smilie_text>
+	</smilie>
+
+	<!-- Red Mushroom (40:0) -->
+	<smilie smilie_category_id="51" title="Red Mushroom" display_order="31" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/40-0.png</image_url>
+		<smilie_text>:mc_40-0:</smilie_text>
+		<smilie_text>:mc_red_mushroom:</smilie_text>
+	</smilie>
+
+	<!-- Torch (50:0) -->
+	<smilie smilie_category_id="51" title="Torch" display_order="32" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/50-0.png</image_url>
+		<smilie_text>:mc_50-0:</smilie_text>
+		<smilie_text>:mc_torch:</smilie_text>
+	</smilie>
+
+	<!-- Monster Spawner (52:0) -->
+	<smilie smilie_category_id="51" title="Monster Spawner" display_order="33" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/52-0.png</image_url>
+		<smilie_text>:mc_52-0:</smilie_text>
+		<smilie_text>:mc_monster_spawner:</smilie_text>
+	</smilie>
+
+	<!-- Chest (54:0) -->
+	<smilie smilie_category_id="51" title="Chest" display_order="34" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/54-0.png</image_url>
+		<smilie_text>:mc_54-0:</smilie_text>
+		<smilie_text>:mc_chest:</smilie_text>
+	</smilie>
+
+	<!-- Crafting Table (58:0) -->
+	<smilie smilie_category_id="51" title="Crafting Table" display_order="35" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/58-0.png</image_url>
+		<smilie_text>:mc_58-0:</smilie_text>
+		<smilie_text>:mc_crafting_table:</smilie_text>
+	</smilie>
+
+	<!-- Wheat Crops (59:0) -->
+	<smilie smilie_category_id="51" title="Wheat Crops" display_order="36" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/59-0.png</image_url>
+		<smilie_text>:mc_59-0:</smilie_text>
+		<smilie_text>:mc_wheat_crops:</smilie_text>
+	</smilie>
+
+	<!-- Furnace (61:0) -->
+	<smilie smilie_category_id="51" title="Furnace" display_order="37" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/61-0.png</image_url>
+		<smilie_text>:mc_61-0:</smilie_text>
+		<smilie_text>:mc_furnace:</smilie_text>
+	</smilie>
+
+	<!-- Burning Furnace (62:0) -->
+	<smilie smilie_category_id="51" title="Burning Furnace" display_order="38" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/62-0.png</image_url>
+		<smilie_text>:mc_62-0:</smilie_text>
+		<smilie_text>:mc_burning_furnace:</smilie_text>
+	</smilie>
+
+	<!-- Standing Sign Block (63:0) -->
+	<smilie smilie_category_id="51" title="Standing Sign Block" display_order="39" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/63-0.png</image_url>
+		<smilie_text>:mc_63-0:</smilie_text>
+		<smilie_text>:mc_standing_sign_block:</smilie_text>
+	</smilie>
+
+	<!-- Ladder (65:0) -->
+	<smilie smilie_category_id="51" title="Ladder" display_order="40" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/65-0.png</image_url>
+		<smilie_text>:mc_65-0:</smilie_text>
+		<smilie_text>:mc_ladder:</smilie_text>
+	</smilie>
+
+	<!-- Cactus (81:0) -->
+	<smilie smilie_category_id="51" title="Cactus" display_order="41" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/81-0.png</image_url>
+		<smilie_text>:mc_81-0:</smilie_text>
+		<smilie_text>:mc_cactus:</smilie_text>
+	</smilie>
+
+	<!-- Sugar Canes (83:0) -->
+	<smilie smilie_category_id="51" title="Sugar Canes" display_order="42" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/83-0.png</image_url>
+		<smilie_text>:mc_83-0:</smilie_text>
+		<smilie_text>:mc_sugar_canes_plant:</smilie_text>
+	</smilie>
+
+	<!-- Jukebox (84:0) -->
+	<smilie smilie_category_id="51" title="Jukebox" display_order="43" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/84-0.png</image_url>
+		<smilie_text>:mc_84-0:</smilie_text>
+		<smilie_text>:mc_jukebox:</smilie_text>
+	</smilie>
+
+	<!-- Oak Fence (85:0) -->
+	<smilie smilie_category_id="51" title="Oak Fence" display_order="44" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/85-0.png</image_url>
+		<smilie_text>:mc_85-0:</smilie_text>
+		<smilie_text>:mc_oak_fence:</smilie_text>
+	</smilie>
+
+	<!-- Nether Portal (90:0) -->
+	<smilie smilie_category_id="51" title="Nether Portal" display_order="45" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/90-0.png</image_url>
+		<smilie_text>:mc_90-0:</smilie_text>
+		<smilie_text>:mc_nether_portal:</smilie_text>
+	</smilie>
+
+	<!-- Cake Block (92:0) -->
+	<smilie smilie_category_id="51" title="Cake Block" display_order="46" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/92-0.png</image_url>
+		<smilie_text>:mc_92-0:</smilie_text>
+		<smilie_text>:mc_cake_block:</smilie_text>
+	</smilie>
+
+	<!-- Iron Bars (101:0) -->
+	<smilie smilie_category_id="51" title="Iron Bars" display_order="47" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/101-0.png</image_url>
+		<smilie_text>:mc_101-0:</smilie_text>
+		<smilie_text>:mc_iron_bars:</smilie_text>
+	</smilie>
+
+	<!-- Glass Pane (102:0) -->
+	<smilie smilie_category_id="51" title="Glass Pane" display_order="48" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/102-0.png</image_url>
+		<smilie_text>:mc_102-0:</smilie_text>
+		<smilie_text>:mc_glass_pane:</smilie_text>
+	</smilie>
+
+	<!-- Pumpkin Stem (104:0) -->
+	<smilie smilie_category_id="51" title="Pumpkin Stem" display_order="49" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/104-0.png</image_url>
+		<smilie_text>:mc_104-0:</smilie_text>
+		<smilie_text>:mc_pumpkin_stem:</smilie_text>
+	</smilie>
+
+	<!-- Melon Stem (105:0) -->
+	<smilie smilie_category_id="51" title="Melon Stem" display_order="50" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/105-0.png</image_url>
+		<smilie_text>:mc_105-0:</smilie_text>
+		<smilie_text>:mc_melon_stem:</smilie_text>
+	</smilie>
+
+	<!-- Vines (106:0) -->
+	<smilie smilie_category_id="51" title="Vines" display_order="51" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/106-0.png</image_url>
+		<smilie_text>:mc_106-0:</smilie_text>
+		<smilie_text>:mc_vines:</smilie_text>
+	</smilie>
+
+	<!-- Lily Pad (111:0) -->
+	<smilie smilie_category_id="51" title="Lily Pad" display_order="52" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/111-0.png</image_url>
+		<smilie_text>:mc_111-0:</smilie_text>
+		<smilie_text>:mc_lily_pad:</smilie_text>
+	</smilie>
+
+	<!-- Nether Brick Fence (113:0) -->
+	<smilie smilie_category_id="51" title="Nether Brick Fence" display_order="53" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/113-0.png</image_url>
+		<smilie_text>:mc_113-0:</smilie_text>
+		<smilie_text>:mc_nether_brick_fence:</smilie_text>
+	</smilie>
+
+	<!-- Nether Wart (115:0) -->
+	<smilie smilie_category_id="51" title="Nether Wart" display_order="54" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/115-0.png</image_url>
+		<smilie_text>:mc_115-0:</smilie_text>
+		<smilie_text>:mc_nether_wart_plant:</smilie_text>
+	</smilie>
+
+	<!-- Enchantment Table (116:0) -->
+	<smilie smilie_category_id="51" title="Enchantment Table" display_order="55" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/116-0.png</image_url>
+		<smilie_text>:mc_116-0:</smilie_text>
+		<smilie_text>:mc_enchantment_table:</smilie_text>
+	</smilie>
+
+	<!-- Brewing Stand (117:0) -->
+	<smilie smilie_category_id="51" title="Brewing Stand" display_order="56" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/117-0.png</image_url>
+		<smilie_text>:mc_117-0:</smilie_text>
+		<smilie_text>:mc_brewing_stand_3D:</smilie_text>
+	</smilie>
+
+	<!-- Cauldron (118:0) -->
+	<smilie smilie_category_id="51" title="Cauldron" display_order="57" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/118-0.png</image_url>
+		<smilie_text>:mc_118-0:</smilie_text>
+		<smilie_text>:mc_cauldron_3D:</smilie_text>
+	</smilie>
+
+	<!-- End Portal Frame (120:0) -->
+	<smilie smilie_category_id="51" title="End Portal Frame" display_order="58" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/120-0.png</image_url>
+		<smilie_text>:mc_120-0:</smilie_text>
+		<smilie_text>:mc_end_portal_frame:</smilie_text>
+	</smilie>
+
+	<!-- Cocoa (127:0) -->
+	<smilie smilie_category_id="51" title="Cocoa" display_order="59" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/127-0.png</image_url>
+		<smilie_text>:mc_127-0:</smilie_text>
+		<smilie_text>:mc_cocoa:</smilie_text>
+	</smilie>
+
+	<!-- Ender Chest (130:0) -->
+	<smilie smilie_category_id="51" title="Ender Chest" display_order="60" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/130-0.png</image_url>
+		<smilie_text>:mc_130-0:</smilie_text>
+		<smilie_text>:mc_ender_chest:</smilie_text>
+	</smilie>
+
+	<!-- Command Block (137:0) -->
+	<smilie smilie_category_id="51" title="Command Block" display_order="61" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/137-0.png</image_url>
+		<smilie_text>:mc_137-0:</smilie_text>
+		<smilie_text>:mc_command_block:</smilie_text>
+	</smilie>
+
+	<!-- Cobblestone Wall (139:0) -->
+	<smilie smilie_category_id="51" title="Cobblestone Wall" display_order="62" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/139-0.png</image_url>
+		<smilie_text>:mc_139-0:</smilie_text>
+		<smilie_text>:mc_cobblestone_wall:</smilie_text>
+	</smilie>
+
+	<!-- Mossy Cobblestone Wall (139:1) -->
+	<smilie smilie_category_id="51" title="Mossy Cobblestone Wall" display_order="63" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/139-1.png</image_url>
+		<smilie_text>:mc_139-1:</smilie_text>
+		<smilie_text>:mc_mossy_cobblestone_wall:</smilie_text>
+	</smilie>
+
+	<!-- Flower Pot (140:0) -->
+	<smilie smilie_category_id="51" title="Flower Pot" display_order="64" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/140-0.png</image_url>
+		<smilie_text>:mc_140-0:</smilie_text>
+		<smilie_text>:mc_flower_pot_3D:</smilie_text>
+	</smilie>
+
+	<!-- Carrots (141:0) -->
+	<smilie smilie_category_id="51" title="Carrots" display_order="65" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/141-0.png</image_url>
+		<smilie_text>:mc_141-0:</smilie_text>
+		<smilie_text>:mc_carrots:</smilie_text>
+	</smilie>
+
+	<!-- Potatoes (142:0) -->
+	<smilie smilie_category_id="51" title="Potatoes" display_order="66" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/142-0.png</image_url>
+		<smilie_text>:mc_142-0:</smilie_text>
+		<smilie_text>:mc_potatoes:</smilie_text>
+	</smilie>
+
+	<!-- Mob Head (144:0) -->
+	<smilie smilie_category_id="51" title="Mob Head" display_order="67" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/144-0.png</image_url>
+		<smilie_text>:mc_144-0:</smilie_text>
+		<smilie_text>:mc_mob_head:</smilie_text>
+	</smilie>
+
+	<!-- Anvil (145:0) -->
+	<smilie smilie_category_id="51" title="Anvil" display_order="68" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/145-0.png</image_url>
+		<smilie_text>:mc_145-0:</smilie_text>
+		<smilie_text>:mc_anvil:</smilie_text>
+	</smilie>
+
+	<!-- White Stained Glass Pane (160:0) -->
+	<smilie smilie_category_id="51" title="White Stained Glass Pane" display_order="69" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/160-0.png</image_url>
+		<smilie_text>:mc_160-0:</smilie_text>
+		<smilie_text>:mc_white_stained_glass_pane:</smilie_text>
+	</smilie>
+
+	<!-- Orange Stained Glass Pane (160:1) -->
+	<smilie smilie_category_id="51" title="Orange Stained Glass Pane" display_order="70" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/160-1.png</image_url>
+		<smilie_text>:mc_160-1:</smilie_text>
+		<smilie_text>:mc_orange_stained_glass_pane:</smilie_text>
+	</smilie>
+
+	<!-- Magenta Stained Glass Pane (160:2) -->
+	<smilie smilie_category_id="51" title="Magenta Stained Glass Pane" display_order="71" display_in_editor="1">
+		<image_url>styles/minecraft_all_pack/decoration_blocks/160-2.png</image_url>
+		<smilie_text>:mc_160-2:</smilie_text>
+		<smilie_text>:mc_magenta_stained_glass_pane:</smilie_text>
+	</smilie>
+	</smilies>
+</smilies_export>

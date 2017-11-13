@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+    <smilie_categories>
+        <smilie_category id="27" title="MC: Redstone" display_order="52"/>
+    </smilie_categories>
+        <smilies>
+
+        <!-- Dispenser (23:0) -->
+        <smilie smilie_category_id="27" title="Dispenser" display_order="0" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/23-0.png</image_url>
+            <smilie_text>:mc_23-0:</smilie_text>
+            <smilie_text>:mc_dispenser:</smilie_text>
+        </smilie>
+
+        <!-- Note Block (25:0) -->
+        <smilie smilie_category_id="27" title="Note Block" display_order="1" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/25-0.png</image_url>
+            <smilie_text>:mc_25-0:</smilie_text>
+            <smilie_text>:mc_note_block:</smilie_text>
+        </smilie>
+
+        <!-- Sticky Piston (29:0) -->
+        <smilie smilie_category_id="27" title="Sticky Piston" display_order="2" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/29-0.png</image_url>
+            <smilie_text>:mc_29-0:</smilie_text>
+            <smilie_text>:mc_sticky_piston:</smilie_text>
+        </smilie>
+
+        <!-- Piston (33:0) -->
+        <smilie smilie_category_id="27" title="Piston" display_order="3" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/33-0.png</image_url>
+            <smilie_text>:mc_33-0:</smilie_text>
+            <smilie_text>:mc_piston:</smilie_text>
+        </smilie>
+
+        <!-- TNT (46:0) -->
+        <smilie smilie_category_id="27" title="TNT" display_order="4" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/46-0.png</image_url>
+            <smilie_text>:mc_46-0:</smilie_text>
+            <smilie_text>:mc_tnt:</smilie_text>
+        </smilie>
+
+        <!-- Oak Door Block (64:0) -->
+        <smilie smilie_category_id="27" title="Oak Door Block" display_order="5" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/64-0.png</image_url>
+            <smilie_text>:mc_64-0:</smilie_text>
+            <smilie_text>:mc_oak_door_block:</smilie_text>
+        </smilie>
+
+        <!-- Lever (69:0) -->
+        <smilie smilie_category_id="27" title="Lever" display_order="6" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/69-0.png</image_url>
+            <smilie_text>:mc_69-0:</smilie_text>
+            <smilie_text>:mc_lever:</smilie_text>
+        </smilie>
+
+        <!-- Stone Pressure Plate (70:0) -->
+        <smilie smilie_category_id="27" title="Stone Pressure Plate" display_order="7" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/70-0.png</image_url>
+            <smilie_text>:mc_70-0:</smilie_text>
+            <smilie_text>:mc_stone_pressure_plate:</smilie_text>
+        </smilie>
+
+        <!-- Iron Door Block (71:0) -->
+        <smilie smilie_category_id="27" title="Iron Door Block" display_order="8" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/71-0.png</image_url>
+            <smilie_text>:mc_71-0:</smilie_text>
+            <smilie_text>:mc_iron_door_block:</smilie_text>
+        </smilie>
+
+        <!-- Wooden Pressure Plate (72:0) -->
+        <smilie smilie_category_id="27" title="Wooden Pressure Plate" display_order="9" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/72-0.png</image_url>
+            <smilie_text>:mc_72-0:</smilie_text>
+            <smilie_text>:mc_wooden_pressure_plate:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Torch (off) (75:0) -->
+        <smilie smilie_category_id="27" title="Redstone Torch (off)" display_order="10" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/75-0.png</image_url>
+            <smilie_text>:mc_75-0:</smilie_text>
+            <smilie_text>:mc_redstone_torch_off:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Torch (on) (76:0) -->
+        <smilie smilie_category_id="27" title="Redstone Torch (on)" display_order="11" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/76-0.png</image_url>
+            <smilie_text>:mc_76-0:</smilie_text>
+            <smilie_text>:mc_redstone_torch_on:</smilie_text>
+        </smilie>
+
+        <!-- Stone Button (77:0) -->
+        <smilie smilie_category_id="27" title="Stone Button" display_order="12" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/77-0.png</image_url>
+            <smilie_text>:mc_77-0:</smilie_text>
+            <smilie_text>:mc_stone_button:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Repeater Block (off) (93:0) -->
+        <smilie smilie_category_id="27" title="Redstone Repeater Block (off)" display_order="13" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/93-0.png</image_url>
+            <smilie_text>:mc_93-0:</smilie_text>
+            <smilie_text>:mc_redstone_repeater_block_off:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Repeater Block (on) (94:0) -->
+        <smilie smilie_category_id="27" title="Redstone Repeater Block (on)" display_order="14" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/94-0.png</image_url>
+            <smilie_text>:mc_94-0:</smilie_text>
+            <smilie_text>:mc_redstone_repeater_block_on:</smilie_text>
+        </smilie>
+
+        <!-- Wooden Trapdoor (96:0) -->
+        <smilie smilie_category_id="27" title="Wooden Trapdoor" display_order="15" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/96-0.png</image_url>
+            <smilie_text>:mc_96-0:</smilie_text>
+            <smilie_text>:mc_wooden_trapdoor:</smilie_text>
+        </smilie>
+
+        <!-- Oak Fence Gate (107:0) -->
+        <smilie smilie_category_id="27" title="Oak Fence Gate" display_order="16" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/107-0.png</image_url>
+            <smilie_text>:mc_107-0:</smilie_text>
+            <smilie_text>:mc_oak_fence_gate:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Lamp (inactive) (123:0) -->
+        <smilie smilie_category_id="27" title="Redstone Lamp (inactive)" display_order="17" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/123-0.png</image_url>
+            <smilie_text>:mc_123-0:</smilie_text>
+            <smilie_text>:mc_redstone_lamp_inactive:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Lamp (active) (124:0) -->
+        <smilie smilie_category_id="27" title="Redstone Lamp (active)" display_order="18" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/124-0.png</image_url>
+            <smilie_text>:mc_124-0:</smilie_text>
+            <smilie_text>:mc_redstone_lamp_active:</smilie_text>
+        </smilie>
+
+        <!-- Tripwire Hook (131:0) -->
+        <smilie smilie_category_id="27" title="Tripwire Hook" display_order="19" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/131-0.png</image_url>
+            <smilie_text>:mc_131-0:</smilie_text>
+            <smilie_text>:mc_tripwire_hook:</smilie_text>
+        </smilie>
+
+        <!-- Tripwire (132:0) -->
+        <smilie smilie_category_id="27" title="Tripwire" display_order="20" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/132-0.png</image_url>
+            <smilie_text>:mc_132-0:</smilie_text>
+            <smilie_text>:mc_tripwire:</smilie_text>
+        </smilie>
+
+        <!-- Wooden Button (143:0) -->
+        <smilie smilie_category_id="27" title="Wooden Button" display_order="21" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/143-0.png</image_url>
+            <smilie_text>:mc_143-0:</smilie_text>
+            <smilie_text>:mc_wooden_button:</smilie_text>
+        </smilie>
+
+        <!-- Weighted Pressure Plate (light) (147:0) -->
+        <smilie smilie_category_id="27" title="Weighted Pressure Plate (light)" display_order="22" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/147-0.png</image_url>
+            <smilie_text>:mc_147-0:</smilie_text>
+            <smilie_text>:mc_weighted_pressure_plate_light:</smilie_text>
+        </smilie>
+
+        <!-- Weighted Pressure Plate (heavy) (148:0) -->
+        <smilie smilie_category_id="27" title="Weighted Pressure Plate (heavy)" display_order="23" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/148-0.png</image_url>
+            <smilie_text>:mc_148-0:</smilie_text>
+            <smilie_text>:mc_weighted_pressure_plate_heavy:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Comparator (inactive) (149:0) -->
+        <smilie smilie_category_id="27" title="Redstone Comparator (inactive)" display_order="24" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/149-0.png</image_url>
+            <smilie_text>:mc_149-0:</smilie_text>
+            <smilie_text>:mc_redstone_comparator_inactive:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Comparator (active) (150:0) -->
+        <smilie smilie_category_id="27" title="Redstone Comparator (active)" display_order="25" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/150-0.png</image_url>
+            <smilie_text>:mc_150-0:</smilie_text>
+            <smilie_text>:mc_redstone_comparator_active:</smilie_text>
+        </smilie>
+
+        <!-- Daylight Sensor (151:0) -->
+        <smilie smilie_category_id="27" title="Daylight Sensor" display_order="26" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/151-0.png</image_url>
+            <smilie_text>:mc_151-0:</smilie_text>
+            <smilie_text>:mc_daylight_sensor:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Block (152:0) -->
+        <smilie smilie_category_id="27" title="Redstone Block" display_order="27" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/152-0.png</image_url>
+            <smilie_text>:mc_152-0:</smilie_text>
+            <smilie_text>:mc_redstone_block:</smilie_text>
+        </smilie>
+
+        <!-- Hopper (154:0) -->
+        <smilie smilie_category_id="27" title="Hopper" display_order="28" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/154-0.png</image_url>
+            <smilie_text>:mc_154-0:</smilie_text>
+            <smilie_text>:mc_hopper:</smilie_text>
+        </smilie>
+
+        <!-- Dropper (158:0) -->
+        <smilie smilie_category_id="27" title="Dropper" display_order="29" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/158-0.png</image_url>
+            <smilie_text>:mc_158-0:</smilie_text>
+            <smilie_text>:mc_dropper:</smilie_text>
+        </smilie>
+
+        <!-- Iron Trapdoor (167:0) -->
+        <smilie smilie_category_id="27" title="Iron Trapdoor" display_order="30" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/167-0.png</image_url>
+            <smilie_text>:mc_167-0:</smilie_text>
+            <smilie_text>:mc_iron_trapdoor:</smilie_text>
+        </smilie>
+
+        <!-- Inverted Daylight Sensor (178:0) -->
+        <smilie smilie_category_id="27" title="Inverted Daylight Sensor" display_order="31" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/178-0.png</image_url>
+            <smilie_text>:mc_178-0:</smilie_text>
+            <smilie_text>:mc_inverted_daylight_sensor:</smilie_text>
+        </smilie>
+
+        <!-- Spruce Fence Gate (183:0) -->
+        <smilie smilie_category_id="27" title="Spruce Fence Gate" display_order="32" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/183-0.png</image_url>
+            <smilie_text>:mc_183-0:</smilie_text>
+            <smilie_text>:mc_spruce_fence_gate:</smilie_text>
+        </smilie>
+
+        <!-- Birch Fence Gate (184:0) -->
+        <smilie smilie_category_id="27" title="Birch Fence Gate" display_order="33" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/184-0.png</image_url>
+            <smilie_text>:mc_184-0:</smilie_text>
+            <smilie_text>:mc_birch_fence_gate:</smilie_text>
+        </smilie>
+
+        <!-- Jungle Fence Gate (185:0) -->
+        <smilie smilie_category_id="27" title="Jungle Fence Gate" display_order="34" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/185-0.png</image_url>
+            <smilie_text>:mc_185-0:</smilie_text>
+            <smilie_text>:mc_jungle_fence_gate:</smilie_text>
+        </smilie>
+
+        <!-- Dark Oak Fence Gate (186:0) -->
+        <smilie smilie_category_id="27" title="Dark Oak Fence Gate" display_order="35" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/186-0.png</image_url>
+            <smilie_text>:mc_186-0:</smilie_text>
+            <smilie_text>:mc_dark_oak_fence_gate:</smilie_text>
+        </smilie>
+
+        <!-- Acacia Fence Gate (187:0) -->
+        <smilie smilie_category_id="27" title="Acacia Fence Gate" display_order="36" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/187-0.png</image_url>
+            <smilie_text>:mc_187-0:</smilie_text>
+            <smilie_text>:mc_acacia_fence_gate:</smilie_text>
+        </smilie>
+
+        <!-- Spruce Door Block (193:0) -->
+        <smilie smilie_category_id="27" title="Spruce Door Block" display_order="37" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/193-0.png</image_url>
+            <smilie_text>:mc_193-0:</smilie_text>
+            <smilie_text>:mc_spruce_door_block:</smilie_text>
+        </smilie>
+
+        <!-- Birch Door Block (194:0) -->
+        <smilie smilie_category_id="27" title="Birch Door Block" display_order="38" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/194-0.png</image_url>
+            <smilie_text>:mc_194-0:</smilie_text>
+            <smilie_text>:mc_birch_door_block:</smilie_text>
+        </smilie>
+
+        <!-- Jungle Door Block (195:0) -->
+        <smilie smilie_category_id="27" title="Jungle Door Block" display_order="39" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/195-0.png</image_url>
+            <smilie_text>:mc_195-0:</smilie_text>
+            <smilie_text>:mc_jungle_door_block:</smilie_text>
+        </smilie>
+
+        <!-- Acacia Door Block (196:0) -->
+        <smilie smilie_category_id="27" title="Acacia Door Block" display_order="40" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/196-0.png</image_url>
+            <smilie_text>:mc_196-0:</smilie_text>
+            <smilie_text>:mc_acacia_door_block:</smilie_text>
+        </smilie>
+
+        <!-- Dark Oak Door Block (197:0) -->
+        <smilie smilie_category_id="27" title="Dark Oak Door Block" display_order="41" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/197-0.png</image_url>
+            <smilie_text>:mc_197-0:</smilie_text>
+            <smilie_text>:mc_dark_oak_door_block:</smilie_text>
+        </smilie>
+
+        <!-- Observer (218:0) -->
+        <smilie smilie_category_id="27" title="Observer" display_order="42" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/218-0.png</image_url>
+            <smilie_text>:mc_218-0:</smilie_text>
+            <smilie_text>:mc_observer:</smilie_text>
+        </smilie>
+
+        <!-- Redstone (331:0) -->
+        <smilie smilie_category_id="27" title="Redstone" display_order="43" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/331-0.png</image_url>
+            <smilie_text>:mc_331-0:</smilie_text>
+            <smilie_text>:mc_redstone:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Repeater (356:0) -->
+        <smilie smilie_category_id="27" title="Redstone Repeater" display_order="44" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/356-0.png</image_url>
+            <smilie_text>:mc_356-0:</smilie_text>
+            <smilie_text>:mc_redstone_repeater:</smilie_text>
+        </smilie>
+
+        <!-- Redstone Comparator (404:0) -->
+        <smilie smilie_category_id="27" title="Redstone Comparator" display_order="45" display_in_editor="1">
+            <image_url>styles/minecraft_all_pack/redstone/404-0.png</image_url>
+            <smilie_text>:mc_404-0:</smilie_text>
+            <smilie_text>:mc_redstone_comparator:</smilie_text>
+        </smilie>
+    </smilies>
+</smilies_export>
